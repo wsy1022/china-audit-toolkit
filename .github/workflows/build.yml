@@ -3,14 +3,8 @@ name: build-launcher
 on:
   push:
     branches: [main]
-    paths:
-      - "launcher/**"
-      - "tools.json"
-      - "docs/app.ico"
-      - ".github/workflows/build.yml"
+    tags: ["v*"]
   pull_request:
-    paths:
-      - "launcher/**"
   workflow_dispatch:
   release:
     types: [published]
