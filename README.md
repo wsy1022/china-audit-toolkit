@@ -24,7 +24,7 @@
 
 ## 这个包不是什么
 
-- **不含审计署工具的可执行文件**。这些工具的著作权归原发布单位，本仓库只提供清单、启动台、技能文档与校验脚本。工具请从原发布渠道取得，按 `tools.json` 里的相对路径放进 `组件/`。
+- **二进制不进 git**。1.6 GB 的可执行文件不适合版本库，它们以 zip 形式放在 Releases；著作权仍归原发布单位，本仓库只做打包、索引与启动。
 - 不产生审计结论，不替代复核与职业判断。
 - 翻译器只做语言转换，不做汇率换算、不做单位缩放。
 
@@ -50,6 +50,33 @@
 | 11 | 语音识别工具 | 语音 · 录音转文字，本地 sherpa-ncnn 中英双语模型，完全离线。 |
 | S | 关键词搜索工具 | 搜索 · 全盘文档搜索（含扫描件 OCR），段落级摘要、命中高亮。 |
 | 15 | 财务报表中英翻译器 | 翻译 · 英文财报译成中英对照 Word，术语锁定、数字校验、报表逐行对齐。 |
+
+## 下载工具本体
+
+工具本体**不进 git**（共 1642 MB），放在 Releases 里，一个工具一个 zip。解压到工具箱根目录即可，目录结构已与 `tools.json` 对齐：
+
+| # | 工具 | 下载文件 | 大小 |
+|---|---|---|---|
+| 01 | 批量Word文档关键字检索 | `01-word-keyword-search.zip` | 42.3 MB |
+| 01B | 批量Word检索(支持doc老格式) | `01B-word-search-doc-legacy.zip` | 114.1 MB |
+| 02 | 数据分析关联查询工具 | `02-table-join.zip` | 59.4 MB |
+| 03 | 表格数据关联工具 | `03-table-relational.zip` | 32.9 MB |
+| 04 | 图片文字识别工具 | `04-ocr-image.zip` | 65.3 MB |
+| 05 | PDF文件内容提取工具 | `05-pdf-extract.zip` | 65.3 MB |
+| 06A | PDF数据提取工具 | `06A-pdf-data-extract.zip` | 77.0 MB |
+| 06B | PDF文件转换工具 | `06B-pdf-convert.zip` | 282.2 MB |
+| 07 | 文本文档比对工具 | `07-text-diff.zip` | 13.3 MB |
+| 08 | 发票识别工具 | `08-ocr-invoice.zip` | 65.3 MB |
+| 09 | 发票信息批量提取工具 | `09-invoice-pdf-batch.zip` | 125.0 MB |
+| 10 | 身份证手机号识别工具 | `10-idcard-lookup.zip` | 65.3 MB |
+| 11 | 语音识别工具 | `11-speech-to-text.zip` | 65.3 MB |
+| 12 | Excel单表拆分 | `12-excel-split.zip` | 103.3 MB |
+| 13 | Excel多表合一 | `13-excel-merge.zip` | 103.2 MB |
+| 14 | Excel多页合表 | `14-excel-sheets-merge.zip` | 102.7 MB |
+| S | 关键词搜索工具 | `S-fulltext-search.zip` | 201.2 MB |
+| 15 | 财务报表中英翻译器 | `15-financial-statement-translator.zip` | 59.5 MB |
+
+每个 zip 含可执行文件与 `使用说明.txt`；`09 / 12 / 13 / 14` 另含轻量 TK 版。二进制的著作权归原发布单位，本仓库只做打包与索引，见 [NOTICE.md](NOTICE.md)。
 
 ## 怎么用
 

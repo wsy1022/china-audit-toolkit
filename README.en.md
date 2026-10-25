@@ -26,7 +26,7 @@ The skill documents are written for AI coding agents (Claude Code, Codex, Hermes
 
 ## What this is not
 
-- **It does not contain the audit tools' binaries.** Their copyright belongs to the publishers. This repository ships the manifest, the launcher, the skill documents and a verification script; you obtain the tools from their official channel and drop them under `组件/` at the paths in `tools.json`.
+- **The binaries are not in git.** 1.6 GB of executables do not belong in a repository, so they ship as zips on Releases; their copyright stays with the publishers, and this project only packages, indexes and launches them.
 - It does not draw audit conclusions and does not replace professional judgement.
 - The translator converts language only: no FX conversion, no unit scaling.
 
@@ -52,6 +52,33 @@ The skill documents are written for AI coding agents (Claude Code, Codex, Hermes
 | 11 | 语音识别工具 | Speech · Audio → text, local sherpa-ncnn bilingual model, fully offline |
 | S | 关键词搜索工具 | Search · Whole-disk document search with OCR, paragraph summaries, highlighted hits |
 | 15 | 财务报表中英翻译器 | Translate · English financial statements → bilingual Word, term-locked |
+
+## Downloading the tools
+
+The tool binaries are **not in git** (1642 MB). They ship as one zip per tool on Releases; unzip at the toolbox root and the layout already matches `tools.json`.
+
+| # | Tool | Asset | Size |
+|---|---|---|---|
+| 01 | 批量Word文档关键字检索 | `01-word-keyword-search.zip` | 42.3 MB |
+| 01B | 批量Word检索(支持doc老格式) | `01B-word-search-doc-legacy.zip` | 114.1 MB |
+| 02 | 数据分析关联查询工具 | `02-table-join.zip` | 59.4 MB |
+| 03 | 表格数据关联工具 | `03-table-relational.zip` | 32.9 MB |
+| 04 | 图片文字识别工具 | `04-ocr-image.zip` | 65.3 MB |
+| 05 | PDF文件内容提取工具 | `05-pdf-extract.zip` | 65.3 MB |
+| 06A | PDF数据提取工具 | `06A-pdf-data-extract.zip` | 77.0 MB |
+| 06B | PDF文件转换工具 | `06B-pdf-convert.zip` | 282.2 MB |
+| 07 | 文本文档比对工具 | `07-text-diff.zip` | 13.3 MB |
+| 08 | 发票识别工具 | `08-ocr-invoice.zip` | 65.3 MB |
+| 09 | 发票信息批量提取工具 | `09-invoice-pdf-batch.zip` | 125.0 MB |
+| 10 | 身份证手机号识别工具 | `10-idcard-lookup.zip` | 65.3 MB |
+| 11 | 语音识别工具 | `11-speech-to-text.zip` | 65.3 MB |
+| 12 | Excel单表拆分 | `12-excel-split.zip` | 103.3 MB |
+| 13 | Excel多表合一 | `13-excel-merge.zip` | 103.2 MB |
+| 14 | Excel多页合表 | `14-excel-sheets-merge.zip` | 102.7 MB |
+| S | 关键词搜索工具 | `S-fulltext-search.zip` | 201.2 MB |
+| 15 | 财务报表中英翻译器 | `15-financial-statement-translator.zip` | 59.5 MB |
+
+Each zip holds the executable plus its original usage note; `09 / 12 / 13 / 14` also carry a lite TK build. Copyright in these binaries remains with the publishers — see [NOTICE.md](NOTICE.md).
 
 ## Using it
 
