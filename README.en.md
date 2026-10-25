@@ -20,7 +20,7 @@
 
 ## What this is
 
-A **launcher** — one 10 MB Windows exe — plus **18 skill documents**. The launcher reads `tools.json` and lays the tools out as cards by category: click 启动 to run one, 说明 to open its usage note. When a tool is not where the manifest says, the card degrades to "未找到程序" instead of failing silently.
+A **launcher** — one 10 MB Windows exe — plus **19 skill documents**: one per tool, and a router that maps a job to the right tool. The launcher reads `tools.json` and lays the tools out as cards by category: click 启动 to run one, 说明 to open its usage note. When a tool is not where the manifest says, the card degrades to "未找到程序" instead of failing silently.
 
 The skill documents are written for AI coding agents (Claude Code, Codex, Hermes, …): each `SKILL.md` states when to reach for that tool, how to prepare the input, how to verify the output, and where it usually goes wrong.
 
@@ -106,7 +106,7 @@ china-audit-toolkit/
 ├── tools.json                    manifest: 18 tools
 ├── tools.sha256                  size + hash of 22 files (incl. 4 lite variants)
 ├── launcher/toolbox.py           launcher source (tkinter, single file)
-├── skills/                       18 SKILL.md documents
+├── skills/                       19 SKILL.md documents
 │   ├── 00-overview/              which tool for which job
 │   ├── word-keyword-search/ …    01 / 01B / 07 / S
 │   ├── table-join/ …             02 / 03 / 12 / 13 / 14
