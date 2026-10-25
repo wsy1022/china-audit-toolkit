@@ -46,7 +46,7 @@ jobs:
             --name "中国审计机关常用工具包" `
             --add-data "tools.json;." `
             --icon "docs/app.ico" `
-            --distpath "launcher/dist" --workpath "launcher/build" --specpath "launcher" `
+            --distpath "launcher/dist" --workpath "launcher/build" `
             --exclude-module PyQt5 --exclude-module PyQt6 `
             --exclude-module PySide2 --exclude-module PySide6 `
             --exclude-module matplotlib --exclude-module scipy `

@@ -11,7 +11,7 @@ py -3.12 -m PyInstaller --noconfirm --clean --onefile --windowed ^
   --exclude-module PySide2 --exclude-module PySide6 ^
   --exclude-module matplotlib --exclude-module scipy ^
   --exclude-module pandas --exclude-module tkinter.test ^
-  --distpath "launcher\dist" --workpath "launcher\build" --specpath "launcher" ^
+  --distpath "launcher\dist" --workpath "launcher\build" ^
   "launcher\toolbox.py"
 
 if errorlevel 1 (
