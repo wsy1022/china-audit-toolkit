@@ -32,26 +32,26 @@ The skill documents are written for AI coding agents (Claude Code, Codex, Hermes
 
 ## The 18 tools
 
-| ID | Tool | Category | What it does |
-|---|---|---|---|
-| 01 | 批量Word文档关键字检索 | Word | Batch keyword search across .docx, hits exported to Excel; regex supported |
-| 01B | 批量Word检索(支持doc老格式) | Word | Same, including legacy .doc (converted via WPS/Office) |
-| 07 | 文本文档比对工具 | Word | Side-by-side text diff with insert/delete highlighting |
-| 02 | 数据分析关联查询工具 | Table | Left/right/inner/outer join of two Excel/CSV sheets |
-| 03 | 表格数据关联工具 | Table | Sheets → relational tables, visual link builder, merged output |
-| 12 | Excel单表拆分 | Table | Split one workbook by a field into many files |
-| 13 | Excel多表合一 | Table | Merge many workbooks into one |
-| 14 | Excel多页合表 | Table | Merge many sheets of one workbook into a single sheet |
-| 04 | 图片文字识别工具 | OCR | Images and image-only PDFs → Word, local PaddleOCR |
-| 08 | 发票识别工具 | OCR | Invoice images → structured table, local |
-| 09 | 发票信息批量提取工具 | OCR | Batch PDF e-invoices → one table (Shanghai tax bureau format) |
-| 10 | 身份证手机号识别工具 | OCR | ID card OCR; ID/mobile number attribution lookup, batch via Excel |
-| 05 | PDF文件内容提取工具 | PDF | Body text → Word, tables → CSV |
-| 06A | PDF数据提取工具 | PDF | PDF tables → Excel; first choice for bank statements |
-| 06B | PDF文件转换工具 | PDF | Whole-document format conversion |
-| 11 | 语音识别工具 | Speech | Audio → text, local sherpa-ncnn bilingual model, fully offline |
-| S | 关键词搜索工具 | Search | Whole-disk document search with OCR, paragraph summaries, highlighted hits |
-| 15 | 财务报表中英翻译器 | Translate | English financial statements → bilingual Word, term-locked |
+| ID | Tool | What it does |
+|---|---|---|
+| 01 | 批量Word文档关键字检索 | Word · Batch keyword search across .docx, hits exported to Excel; regex supported |
+| 01B | 批量Word检索(支持doc老格式) | Word · Same, including legacy .doc (converted via WPS/Office) |
+| 07 | 文本文档比对工具 | Word · Side-by-side text diff with insert/delete highlighting |
+| 02 | 数据分析关联查询工具 | Table · Left/right/inner/outer join of two Excel/CSV sheets |
+| 03 | 表格数据关联工具 | Table · Sheets → relational tables, visual link builder, merged output |
+| 12 | Excel单表拆分 | Table · Split one workbook by a field into many files |
+| 13 | Excel多表合一 | Table · Merge many workbooks into one |
+| 14 | Excel多页合表 | Table · Merge many sheets of one workbook into a single sheet |
+| 04 | 图片文字识别工具 | OCR · Images and image-only PDFs → Word, local PaddleOCR |
+| 08 | 发票识别工具 | OCR · Invoice images → structured table, local |
+| 09 | 发票信息批量提取工具 | OCR · Batch PDF e-invoices → one table (Shanghai tax bureau format) |
+| 10 | 身份证手机号识别工具 | OCR · ID card OCR; ID/mobile number attribution lookup, batch via Excel |
+| 05 | PDF文件内容提取工具 | PDF · Body text → Word, tables → CSV |
+| 06A | PDF数据提取工具 | PDF · PDF tables → Excel; first choice for bank statements |
+| 06B | PDF文件转换工具 | PDF · Whole-document format conversion |
+| 11 | 语音识别工具 | Speech · Audio → text, local sherpa-ncnn bilingual model, fully offline |
+| S | 关键词搜索工具 | Search · Whole-disk document search with OCR, paragraph summaries, highlighted hits |
+| 15 | 财务报表中英翻译器 | Translate · English financial statements → bilingual Word, term-locked |
 
 ## Using it
 
