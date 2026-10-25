@@ -32,7 +32,7 @@ The skill documents are written for AI coding agents (Claude Code, Codex, Hermes
 
 ## The 18 tools
 
-| ID | Tool | What it does |
+| # | Tool | What it does |
 |---|---|---|
 | 01 | 批量Word文档关键字检索 | Word · Batch keyword search across .docx, hits exported to Excel; regex supported |
 | 01B | 批量Word检索(支持doc老格式) | Word · Same, including legacy .doc (converted via WPS/Office) |
