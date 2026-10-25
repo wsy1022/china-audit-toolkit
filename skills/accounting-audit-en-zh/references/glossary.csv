@@ -1,0 +1,751 @@
+﻿en,zh,part,chapter,chapter_title
+total assets,资产总计,报表行项目,资产负债表,资产负债表
+total liabilities,负债合计,报表行项目,资产负债表,资产负债表
+total equity,所有者权益合计,报表行项目,资产负债表,资产负债表
+total liabilities and equity,负债和所有者权益总计,报表行项目,资产负债表,资产负债表
+current assets,流动资产,报表行项目,资产负债表,资产负债表
+non-current assets,非流动资产,报表行项目,资产负债表,资产负债表
+current liabilities,流动负债,报表行项目,资产负债表,资产负债表
+non-current liabilities,非流动负债,报表行项目,资产负债表,资产负债表
+cash and cash equivalents,现金及现金等价物,报表行项目,资产负债表,资产负债表
+restricted cash,受限资金,报表行项目,资产负债表,资产负债表
+short-term investments,短期投资,报表行项目,资产负债表,资产负债表
+trade receivables,应收账款,报表行项目,资产负债表,资产负债表
+accounts receivable,应收账款,报表行项目,资产负债表,资产负债表
+notes receivable,应收票据,报表行项目,资产负债表,资产负债表
+other receivables,其他应收款,报表行项目,资产负债表,资产负债表
+inventories,存货,报表行项目,资产负债表,资产负债表
+prepayments,预付款项,报表行项目,资产负债表,资产负债表
+prepaid expenses,预付费用,报表行项目,资产负债表,资产负债表
+contract assets,合同资产,报表行项目,资产负债表,资产负债表
+current tax assets,当期所得税资产,报表行项目,资产负债表,资产负债表
+deferred tax assets,递延所得税资产,报表行项目,资产负债表,资产负债表
+property plant and equipment,固定资产,报表行项目,资产负债表,资产负债表
+right-of-use assets,使用权资产,报表行项目,资产负债表,资产负债表
+investment property,投资性房地产,报表行项目,资产负债表,资产负债表
+intangible assets,无形资产,报表行项目,资产负债表,资产负债表
+goodwill,商誉,报表行项目,资产负债表,资产负债表
+long-term equity investments,长期股权投资,报表行项目,资产负债表,资产负债表
+finance lease receivables,应收融资租赁款,报表行项目,资产负债表,资产负债表
+construction in progress,在建工程,报表行项目,资产负债表,资产负债表
+biological assets,生产性生物资产,报表行项目,资产负债表,资产负债表
+trade payables,应付账款,报表行项目,资产负债表,资产负债表
+accounts payable,应付账款,报表行项目,资产负债表,资产负债表
+notes payable,应付票据,报表行项目,资产负债表,资产负债表
+contract liabilities,合同负债,报表行项目,资产负债表,资产负债表
+employee benefits payable,应付职工薪酬,报表行项目,资产负债表,资产负债表
+taxes payable,应交税费,报表行项目,资产负债表,资产负债表
+short-term borrowings,短期借款,报表行项目,资产负债表,资产负债表
+current portion of non-current liabilities,一年内到期的非流动负债,报表行项目,资产负债表,资产负债表
+provisions,预计负债,报表行项目,资产负债表,资产负债表
+long-term borrowings,长期借款,报表行项目,资产负债表,资产负债表
+bonds payable,应付债券,报表行项目,资产负债表,资产负债表
+lease liabilities,租赁负债,报表行项目,资产负债表,资产负债表
+deferred tax liabilities,递延所得税负债,报表行项目,资产负债表,资产负债表
+share capital,股本,报表行项目,资产负债表,资产负债表
+paid-in capital,实收资本,报表行项目,资产负债表,资产负债表
+capital reserve,资本公积,报表行项目,资产负债表,资产负债表
+other comprehensive income,其他综合收益,报表行项目,资产负债表,资产负债表
+surplus reserve,盈余公积,报表行项目,资产负债表,资产负债表
+retained earnings,未分配利润,报表行项目,资产负债表,资产负债表
+equity attributable to owners of the parent,归属于母公司所有者权益,报表行项目,资产负债表,资产负债表
+non-controlling interests,少数股东权益,报表行项目,资产负债表,资产负债表
+treasury shares,库存股,报表行项目,资产负债表,资产负债表
+share premium,股本溢价,报表行项目,资产负债表,资产负债表
+revenue,营业收入,报表行项目,利润表,利润表
+operating revenue,营业收入,报表行项目,利润表,利润表
+cost of sales,营业成本,报表行项目,利润表,利润表
+cost of revenue,营业成本,报表行项目,利润表,利润表
+gross profit,毛利,报表行项目,利润表,利润表
+selling and distribution expenses,销售费用,报表行项目,利润表,利润表
+selling general and administrative expenses,销售及管理费用,报表行项目,利润表,利润表
+general and administrative expenses,管理费用,报表行项目,利润表,利润表
+research and development expenses,研发费用,报表行项目,利润表,利润表
+other income,其他收益,报表行项目,利润表,利润表
+other gains and losses,营业外收支净额,报表行项目,利润表,利润表
+operating profit,营业利润,报表行项目,利润表,利润表
+operating income,营业利润,报表行项目,利润表,利润表
+finance costs,财务费用,报表行项目,利润表,利润表
+interest expense,利息费用,报表行项目,利润表,利润表
+interest income,利息收入,报表行项目,利润表,利润表
+share of profit of associates,对联营企业的投资收益,报表行项目,利润表,利润表
+profit before tax,利润总额,报表行项目,利润表,利润表
+income before income taxes,利润总额,报表行项目,利润表,利润表
+income tax expense,所得税费用,报表行项目,利润表,利润表
+provision for income taxes,所得税费用,报表行项目,利润表,利润表
+net profit,净利润,报表行项目,利润表,利润表
+net income,净利润,报表行项目,利润表,利润表
+profit attributable to owners of the parent,归属于母公司股东的净利润,报表行项目,利润表,利润表
+profit for the year,年度利润,报表行项目,利润表,利润表
+basic earnings per share,基本每股收益,报表行项目,利润表,利润表
+diluted earnings per share,稀释每股收益,报表行项目,利润表,利润表
+weighted average number of shares,加权平均股数,报表行项目,利润表,利润表
+continuing operations,持续经营业务,报表行项目,利润表,利润表
+discontinued operations,终止经营业务,报表行项目,利润表,利润表
+impairment loss,减值损失,报表行项目,利润表,利润表
+reversal of impairment,减值转回,报表行项目,利润表,利润表
+foreign exchange gains and losses,汇兑损益,报表行项目,利润表,利润表
+share-based payment expense,股份支付费用,报表行项目,利润表,利润表
+statement of profit or loss,利润表,报表行项目,报表名称,报表名称
+statement of comprehensive income,综合收益表,报表行项目,报表名称,报表名称
+statement of financial position,资产负债表,报表行项目,报表名称,报表名称
+statement of cash flows,现金流量表,报表行项目,报表名称,报表名称
+statement of changes in equity,所有者权益变动表,报表行项目,报表名称,报表名称
+statement of operations,经营成果表（利润表）,报表行项目,报表名称,报表名称
+consolidated financial statements,合并财务报表,报表行项目,报表名称,报表名称
+notes to the financial statements,财务报表附注,报表行项目,报表名称,报表名称
+operating activities,经营活动,报表行项目,现金流量表,现金流量表
+investing activities,投资活动,报表行项目,现金流量表,现金流量表
+financing activities,筹资活动,报表行项目,现金流量表,现金流量表
+net cash from operating activities,经营活动产生的现金流量净额,报表行项目,现金流量表,现金流量表
+net cash used in investing activities,投资活动使用的现金流量净额,报表行项目,现金流量表,现金流量表
+net cash from financing activities,筹资活动产生的现金流量净额,报表行项目,现金流量表,现金流量表
+depreciation and amortisation,折旧及摊销,报表行项目,现金流量表,现金流量表
+depreciation,折旧,报表行项目,现金流量表,现金流量表
+amortisation,摊销,报表行项目,现金流量表,现金流量表
+impairment charges,减值损失,报表行项目,现金流量表,现金流量表
+gain on disposal of property plant and equipment,处置固定资产收益,报表行项目,现金流量表,现金流量表
+changes in working capital,营运资本变动,报表行项目,现金流量表,现金流量表
+increase in inventories,存货的增加,报表行项目,现金流量表,现金流量表
+decrease in inventories,存货的减少,报表行项目,现金流量表,现金流量表
+increase in trade receivables,应收账款的增加,报表行项目,现金流量表,现金流量表
+increase in trade payables,应付账款的增加,报表行项目,现金流量表,现金流量表
+purchases of property plant and equipment,购建固定资产支付的现金,报表行项目,现金流量表,现金流量表
+proceeds from disposal of assets,处置资产收到的现金,报表行项目,现金流量表,现金流量表
+proceeds from borrowings,取得借款收到的现金,报表行项目,现金流量表,现金流量表
+repayment of borrowings,偿还债务支付的现金,报表行项目,现金流量表,现金流量表
+dividends paid,分配股利支付的现金,报表行项目,现金流量表,现金流量表
+net increase in cash and cash equivalents,现金及现金等价物净增加额,报表行项目,现金流量表,现金流量表
+effect of exchange rate changes on cash,汇率变动对现金的影响,报表行项目,现金流量表,现金流量表
+cash flows from operating activities,经营活动产生的现金流量,报表行项目,现金流量表,现金流量表
+balance at beginning of period,期初余额,报表行项目,权益变动表,权益变动表
+balance at end of period,期末余额,报表行项目,权益变动表,权益变动表
+total comprehensive income,综合收益总额,报表行项目,权益变动表,权益变动表
+transactions with owners,与所有者的交易,报表行项目,权益变动表,权益变动表
+appropriation to surplus reserve,提取盈余公积,报表行项目,权益变动表,权益变动表
+dividends declared,宣告发放股利,报表行项目,权益变动表,权益变动表
+issue of shares,发行股份,报表行项目,权益变动表,权益变动表
+basis of preparation,编制基础,报表行项目,附注,附注
+going concern,持续经营,报表行项目,附注,附注
+significant accounting policies,重要会计政策,报表行项目,附注,附注
+critical accounting estimates,关键会计估计,报表行项目,附注,附注
+segment reporting,分部报告,报表行项目,附注,附注
+related party transactions,关联方交易,报表行项目,附注,附注
+contingent liabilities,或有负债,报表行项目,附注,附注
+commitments,承诺事项,报表行项目,附注,附注
+subsequent events,资产负债表日后事项,报表行项目,附注,附注
+fair value measurement,公允价值计量,报表行项目,附注,附注
+functional currency,记账本位币,报表行项目,附注,附注
+presentation currency,列报货币,报表行项目,附注,附注
+business combination,企业合并,报表行项目,附注,附注
+operating lease,经营租赁,报表行项目,附注,附注
+finance lease,融资租赁,报表行项目,附注,附注
+auditor's report,审计报告,报表行项目,审计报告,审计报告
+independent auditor's report,独立审计报告,报表行项目,审计报告,审计报告
+opinion,审计意见,报表行项目,审计报告,审计报告
+unqualified opinion,无保留意见,报表行项目,审计报告,审计报告
+qualified opinion,保留意见,报表行项目,审计报告,审计报告
+adverse opinion,否定意见,报表行项目,审计报告,审计报告
+disclaimer of opinion,无法表示意见,报表行项目,审计报告,审计报告
+key audit matters,关键审计事项,报表行项目,审计报告,审计报告
+basis for opinion,形成审计意见的基础,报表行项目,审计报告,审计报告
+material uncertainty related to going concern,与持续经营相关的重大不确定性,报表行项目,审计报告,审计报告
+internal control over financial reporting,财务报告内部控制,报表行项目,审计报告,审计报告
+true and fair view,真实与公允反映,报表行项目,审计报告,审计报告
+fairly present,公允反映,报表行项目,审计报告,审计报告
+gross margin,毛利率,报表行项目,财务比率,财务比率
+net margin,净利率,报表行项目,财务比率,财务比率
+return on equity,净资产收益率,报表行项目,财务比率,财务比率
+return on assets,总资产收益率,报表行项目,财务比率,财务比率
+current ratio,流动比率,报表行项目,财务比率,财务比率
+quick ratio,速动比率,报表行项目,财务比率,财务比率
+debt-to-equity ratio,产权比率,报表行项目,财务比率,财务比率
+inventory turnover,存货周转率,报表行项目,财务比率,财务比率
+receivables turnover,应收账款周转率,报表行项目,财务比率,财务比率
+asset turnover,总资产周转率,报表行项目,财务比率,财务比率
+interest coverage ratio,利息保障倍数,报表行项目,财务比率,财务比率
+earnings before interest and tax,息税前利润,报表行项目,财务比率,财务比率
+earnings before interest tax depreciation and amortisation,息税折旧摊销前利润,报表行项目,财务比率,财务比率
+free cash flow,自由现金流量,报表行项目,财务比率,财务比率
+year ended december 31,截至12月31日止年度,报表行项目,表头,表头
+for the year ended,本年度,报表行项目,表头,表头
+as of,截至,报表行项目,表头,表头
+in thousands,单位：千元,报表行项目,表头,表头
+in millions,单位：百万元,报表行项目,表头,表头
+except per share data,每股数据除外,报表行项目,表头,表头
+increase / decrease,增加 / 减少,报表行项目,表头,表头
+continuing,持续,报表行项目,表头,表头
+restated,重述,报表行项目,表头,表头
+unaudited,未经审计,报表行项目,表头,表头
+audited,已审计,报表行项目,表头,表头
+(monetary) unit of measurement,货币计量,会计原理,P1-Ch1,会计与环境
+abnormal loss,非正常损耗,成本与管理会计,P3-Ch12,成本核算系统
+absolute assurance,绝对保证,审计,P5-Ch17,审计框架
+absorption (full) costing,吸收成本法（全部成本法）,成本与管理会计,P3-Ch12,成本核算系统
+account form,账户式（报表格式）,会计原理,P1-Ch3,财务报表
+accountability,问责（受托履职）,审计,P5-Ch17,审计框架
+accounting,会计；会计学,会计原理,P1-Ch1,会计与环境
+accounting equation,会计等式,会计原理,P1-Ch4,会计循环
+accounting period,会计期间；会计分期,会计原理,P1-Ch1,会计与环境
+accounting policy,会计政策,财务会计,P2-Ch10,财务报表分析
+accounting process,会计程序（识别、计量、记录、传递）,会计原理,P1-Ch1,会计与环境
+accounting profession,会计职业界,国际会计,P4-Ch14,国际会计协调
+accounts receivable confirmation,应收账款函证,审计,P5-Ch18,收集审计证据
+accrual accounting,权责发生制会计,会计原理,P1-Ch2,会计概念与原则
+accrual basis,权责发生制（应计制基础）,会计原理,P1-Ch1,会计与环境
+accrued asset,应计资产,会计原理,P1-Ch4,会计循环
+accrued expense,应计费用,会计原理,P1-Ch4,会计循环
+accrued liabilities,应计负债,财务会计,P2-Ch7,负债
+accrued revenue,应计收入,会计原理,P1-Ch4,会计循环
+accumulated deficit,累计亏损,财务会计,P2-Ch8,所有者权益
+accumulated depreciation,累计折旧,会计原理,P1-Ch4,会计循环
+acquisition method,购买法,国际会计,P4-Ch16,跨国公司的特殊业务会计处理
+activity driver,作业动因,成本与管理会计,P3-Ch12,成本核算系统
+activity-based costing (ABC),作业成本法,成本与管理会计,P3-Ch12,成本核算系统
+additional paid-in capital,股本溢价（资本公积）,财务会计,P2-Ch8,所有者权益
+addressee,收件人,审计,P5-Ch19,对外审计报告
+adjusting entry,调整分录,会计原理,P1-Ch4,会计循环
+administrative expenses,管理费用,会计原理,P1-Ch3,财务报表
+administrative overhead,管理间接成本,财务会计,P2-Ch5,流动资产
+advocacy threat,过度推介威胁,审计,P5-Ch17,审计框架
+agency cost,代理成本,审计,P5-Ch17,审计框架
+agency theory,代理理论,审计,P5-Ch17,审计框架
+agent,代理人（管理层）,审计,P5-Ch17,审计框架
+aging of accounts receivable,应收账款账龄分析,财务会计,P2-Ch5,流动资产
+allocation rate,分配率,成本与管理会计,P3-Ch11,成本术语与概念介绍
+allowance for doubtful accounts,坏账准备,会计原理,P1-Ch4,会计循环
+allowance for doubtful debts,坏账准备,财务会计,P2-Ch5,流动资产
+allowance method,备抵法,财务会计,P2-Ch5,流动资产
+alternative procedures,替代程序,审计,P5-Ch18,收集审计证据
+amortised cost,摊余成本,财务会计,P2-Ch6,投资、固定资产与无形资产
+analytical procedures,分析性程序,财务会计,P2-Ch10,财务报表分析
+annual report,年度报告,会计原理,P1-Ch1,会计与环境
+appropriateness of audit evidence,审计证据的适当性,审计,P5-Ch18,收集审计证据
+appropriation of retained earnings,留存收益拨定,财务会计,P2-Ch8,所有者权益
+assertions,认定,审计,P5-Ch18,收集审计证据
+asset,资产,会计原理,P1-Ch2,会计概念与原则
+associating cause and effect,因果配比,财务会计,P2-Ch9,经营成果
+audit evidence,审计证据,审计,P5-Ch18,收集审计证据
+audit risk,审计风险,审计,P5-Ch18,收集审计证据
+audit sampling,审计抽样,审计,P5-Ch18,收集审计证据
+auditing,审计；审计学,会计原理,P1-Ch1,会计与环境
+auditor’s report,审计报告,审计,P5-Ch19,对外审计报告
+auditor’s responsibilities,审计师的责任,审计,P5-Ch19,对外审计报告
+available-for-sale securities,可供出售证券（投资）,会计原理,P1-Ch3,财务报表
+average rate,平均汇率,国际会计,P4-Ch16,跨国公司的特殊业务会计处理
+bad debt expense,坏账费用,财务会计,P2-Ch5,流动资产
+balance sheet,资产负债表,会计原理,P1-Ch1,会计与环境
+balanced scorecard,平衡计分卡,成本与管理会计,P3-Ch13,管理会计
+bank reconciliation,银行存款余额调节表,财务会计,P2-Ch5,流动资产
+bargain purchase gain,廉价购买利得,国际会计,P4-Ch16,跨国公司的特殊业务会计处理
+base year,基期（基年）,财务会计,P2-Ch10,财务报表分析
+batch-level activity,批次级作业,成本与管理会计,P3-Ch12,成本核算系统
+Board members (trustees),受托人,国际会计,P4-Ch15,国际会计准则理事会
+board of directors,董事会,审计,P5-Ch19,对外审计报告
+bond,债券,会计原理,P1-Ch3,财务报表
+book value,账面价值,会计原理,P1-Ch4,会计循环
+book value per share,每股账面价值,财务会计,P2-Ch8,所有者权益
+borrowing,借款,会计原理,P1-Ch3,财务报表
+break-even point,保本点（盈亏平衡点）,成本与管理会计,P3-Ch13,管理会计
+budgetary slack,预算松弛,成本与管理会计,P3-Ch13,管理会计
+budgeted statement of cash flows,预算现金流量表,成本与管理会计,P3-Ch13,管理会计
+budgeting,预算（编制）,会计原理,P1-Ch1,会计与环境
+business model,业务模式,财务会计,P2-Ch6,投资、固定资产与无形资产
+business risk,经营风险,财务会计,P2-Ch10,财务报表分析
+business transaction,交易事项,会计原理,P1-Ch1,会计与环境
+callability,可赎回性,财务会计,P2-Ch8,所有者权益
+capital expenditure,资本性支出,财务会计,P2-Ch6,投资、固定资产与无形资产
+capital expenditures budget,资本支出预算,成本与管理会计,P3-Ch13,管理会计
+capital maintenance,资本维持,国际会计,P4-Ch15,国际会计准则理事会
+capitalise,资本化,财务会计,P2-Ch6,投资、固定资产与无形资产
+carrying amount,账面价值（摊余成本）,财务会计,P2-Ch7,负债
+cash basis,收付实现制（现金基础）,会计原理,P1-Ch1,会计与环境
+cash budget,现金预算,成本与管理会计,P3-Ch13,管理会计
+cash discount,现金折扣,财务会计,P2-Ch9,经营成果
+cash dividend,现金股利,财务会计,P2-Ch8,所有者权益
+cash flow statement,现金流量表,会计原理,P1-Ch1,会计与环境
+certified public accountant (CPA),注册会计师,会计原理,P1-Ch1,会计与环境
+Chinese Accounting Standards (CAS),中国企业会计准则,国际会计,P4-Ch15,国际会计准则理事会
+clock card,工时卡,成本与管理会计,P3-Ch11,成本术语与概念介绍
+closing entry,结账分录,会计原理,P1-Ch4,会计循环
+closing rate,期末汇率,国际会计,P4-Ch16,跨国公司的特殊业务会计处理
+collusion,串通舞弊,审计,P5-Ch18,收集审计证据
+common control combination,同一控制下企业合并,国际会计,P4-Ch16,跨国公司的特殊业务会计处理
+common-size statement,共同比报表,财务会计,P2-Ch10,财务报表分析
+comparability,可比性,会计原理,P1-Ch2,会计概念与原则
+comparative information,比较信息,会计原理,P1-Ch3,财务报表
+comparative statements,比较报表,财务会计,P2-Ch10,财务报表分析
+completeness,完整性,审计,P5-Ch18,收集审计证据
+compliance audit,合规审计,审计,P5-Ch17,审计框架
+compound instrument,混合工具,财务会计,P2-Ch7,负债
+conceptual framework,概念框架,国际会计,P4-Ch15,国际会计准则理事会
+confidentiality,保密,审计,P5-Ch17,审计框架
+confirmatory value,确认价值,会计原理,P1-Ch2,会计概念与原则
+consideration,对价,会计原理,P1-Ch2,会计概念与原则
+consistency,一致性,会计原理,P1-Ch2,会计概念与原则
+contingent asset,或有资产,财务会计,P2-Ch7,负债
+contingent liability,或有负债,财务会计,P2-Ch7,负债
+contra account,备抵账户,会计原理,P1-Ch4,会计循环
+contract asset,合同资产,财务会计,P2-Ch9,经营成果
+contract liability,合同负债,财务会计,P2-Ch9,经营成果
+contractual cash flows,合同现金流量,财务会计,P2-Ch6,投资、固定资产与无形资产
+contributed capital,投入资本,会计原理,P1-Ch4,会计循环
+contribution margin,贡献毛益,成本与管理会计,P3-Ch12,成本核算系统
+contribution margin ratio,贡献毛益率,成本与管理会计,P3-Ch13,管理会计
+control,控制,财务会计,P2-Ch6,投资、固定资产与无形资产
+control activities,控制活动,审计,P5-Ch18,收集审计证据
+control environment,控制环境,审计,P5-Ch18,收集审计证据
+control objective,控制目标,审计,P5-Ch18,收集审计证据
+control procedure,控制程序,审计,P5-Ch18,收集审计证据
+control risk,控制风险,审计,P5-Ch18,收集审计证据
+convergence,趋同,国际会计,P4-Ch14,国际会计协调
+conversion cost,加工成本,成本与管理会计,P3-Ch11,成本术语与概念介绍
+convertibility,可转换性,财务会计,P2-Ch8,所有者权益
+convertible bonds,可转换债券,财务会计,P2-Ch7,负债
+corporation,公司,会计原理,P1-Ch1,会计与环境
+corrective control,纠正性控制,审计,P5-Ch18,收集审计证据
+cost accounting,成本会计,会计原理,P1-Ch1,会计与环境
+cost accumulation,成本归集,成本与管理会计,P3-Ch11,成本术语与概念介绍
+cost allocation,成本分摊,成本与管理会计,P3-Ch11,成本术语与概念介绍
+cost assignment,成本分配,成本与管理会计,P3-Ch11,成本术语与概念介绍
+cost behaviour,成本性态,成本与管理会计,P3-Ch13,管理会计
+cost constraint,成本约束（成本效益原则）,会计原理,P1-Ch2,会计概念与原则
+cost driver,成本动因,成本与管理会计,P3-Ch11,成本术语与概念介绍
+cost flow assumption,成本流转假设,财务会计,P2-Ch8,所有者权益
+cost method,成本法,财务会计,P2-Ch8,所有者权益
+cost model,成本模式,财务会计,P2-Ch6,投资、固定资产与无形资产
+cost object,成本对象,成本与管理会计,P3-Ch11,成本术语与概念介绍
+cost of capital,资本成本,国际会计,P4-Ch14,国际会计协调
+cost of goods sold,销货成本,财务会计,P2-Ch5,流动资产
+cost pool,成本池,成本与管理会计,P3-Ch11,成本术语与概念介绍
+cost tracing,成本追溯,成本与管理会计,P3-Ch11,成本术语与概念介绍
+cost-volume-profit (CVP) analysis,本量利分析,成本与管理会计,P3-Ch13,管理会计
+coupon (stated) interest rate,票面利率,财务会计,P2-Ch7,负债
+credit,贷方,会计原理,P1-Ch4,会计循环
+cross-border listing,跨境上市,国际会计,P4-Ch14,国际会计协调
+cross-subsidisation,交叉补贴,成本与管理会计,P3-Ch12,成本核算系统
+cumulative preference shares,累积优先股,财务会计,P2-Ch8,所有者权益
+current cost,重置成本／现行成本,会计原理,P1-Ch2,会计概念与原则
+current portion of long-term debt,一年内到期的非流动负债,财务会计,P2-Ch7,负债
+current value,现行价值,会计原理,P1-Ch2,会计概念与原则
+current–non-current method,流动与非流动项目法,国际会计,P4-Ch16,跨国公司的特殊业务会计处理
+cut-off,截止,审计,P5-Ch18,收集审计证据
+cut-off test,截止测试,审计,P5-Ch18,收集审计证据
+date of the auditor’s report,审计报告日,审计,P5-Ch19,对外审计报告
+dealer,经销商,财务会计,P2-Ch9,经营成果
+debit,借方,会计原理,P1-Ch4,会计循环
+debt ratio,资产负债率,财务会计,P2-Ch10,财务报表分析
+declaration date,股利宣告日,财务会计,P2-Ch8,所有者权益
+deferral,递延,会计原理,P1-Ch4,会计循环
+department overhead,部门制造费用,成本与管理会计,P3-Ch11,成本术语与概念介绍
+deposit in transit,在途存款,财务会计,P2-Ch5,流动资产
+derecognise,终止确认,财务会计,P2-Ch6,投资、固定资产与无形资产
+derecognition,终止确认,财务会计,P2-Ch5,流动资产
+detection risk,检查风险,审计,P5-Ch18,收集审计证据
+detective control,检查性控制,审计,P5-Ch18,收集审计证据
+diluted EPS,稀释每股收益,财务会计,P2-Ch9,经营成果
+diminishing (reducing) balance method,余额递减法,财务会计,P2-Ch6,投资、固定资产与无形资产
+direct cost,直接成本,成本与管理会计,P3-Ch11,成本术语与概念介绍
+direct labour,直接人工,成本与管理会计,P3-Ch11,成本术语与概念介绍
+direct labour budget,直接人工预算,成本与管理会计,P3-Ch13,管理会计
+direct materials,直接材料,成本与管理会计,P3-Ch11,成本术语与概念介绍
+direct materials budget,直接材料预算,成本与管理会计,P3-Ch13,管理会计
+direct method,直接法（现金流量表）,会计原理,P1-Ch3,财务报表
+direct write-off method,直接转销法,财务会计,P2-Ch5,流动资产
+directional testing,方向性测试,审计,P5-Ch18,收集审计证据
+directors’ report,董事会报告,财务会计,P2-Ch10,财务报表分析
+discount on bonds payable,应付债券折价,财务会计,P2-Ch7,负债
+discount rate,折现率,财务会计,P2-Ch7,负债
+discussion paper,讨论稿,国际会计,P4-Ch15,国际会计准则理事会
+disposal of assets,资产处置,财务会计,P2-Ch6,投资、固定资产与无形资产
+distribution costs,销售费用,会计原理,P1-Ch3,财务报表
+dividend payout ratio,股利支付率,财务会计,P2-Ch8,所有者权益
+dividend yield,股利收益率,财务会计,P2-Ch10,财务报表分析
+dividends,股利,会计原理,P1-Ch3,财务报表
+dividends receivable,应收股利,财务会计,P2-Ch5,流动资产
+do not present fairly,未公允反映（否定意见表述）,审计,P5-Ch19,对外审计报告
+double-entry bookkeeping,复式记账,会计原理,P1-Ch4,会计循环
+due process,应循程序,国际会计,P4-Ch15,国际会计准则理事会
+DuPont analysis,杜邦分析,财务会计,P2-Ch10,财务报表分析
+DuPont system,杜邦分析体系,财务会计,P2-Ch10,财务报表分析
+earnings per share (EPS),每股收益,财务会计,P2-Ch9,经营成果
+economic entity,会计主体；经济实体,会计原理,P1-Ch1,会计与环境
+effective interest method,实际利率法,财务会计,P2-Ch7,负债
+effective interest rate method,实际利率法,财务会计,P2-Ch6,投资、固定资产与无形资产
+efficiency variance,效率差异,成本与管理会计,P3-Ch13,管理会计
+EFRAG,欧洲财务报告咨询组,国际会计,P4-Ch14,国际会计协调
+elimination entry,抵销分录,国际会计,P4-Ch16,跨国公司的特殊业务会计处理
+emphasis of matter paragraph,强调事项段,审计,P5-Ch19,对外审计报告
+enforcement,执行（监管）,国际会计,P4-Ch14,国际会计协调
+engagement quality control review,项目质量复核,审计,P5-Ch19,对外审计报告
+entity concept,实体理论,国际会计,P4-Ch16,跨国公司的特殊业务会计处理
+entity-level controls,公司层面控制,审计,P5-Ch18,收集审计证据
+equity / owners’ equity,权益／所有者权益,会计原理,P1-Ch2,会计概念与原则
+equity component,权益成分,财务会计,P2-Ch7,负债
+equity method,权益法,财务会计,P2-Ch6,投资、固定资产与无形资产
+equity multiplier,权益乘数,财务会计,P2-Ch10,财务报表分析
+equivalent units,约当产量,成本与管理会计,P3-Ch12,成本核算系统
+European Commission,欧盟委员会,国际会计,P4-Ch14,国际会计协调
+European Union (EU),欧盟,国际会计,P4-Ch14,国际会计协调
+except for,除……之外（保留意见表述）,审计,P5-Ch19,对外审计报告
+exchange gain/loss,汇兑损益,国际会计,P4-Ch16,跨国公司的特殊业务会计处理
+existence,存在,审计,P5-Ch18,收集审计证据
+expectation gap,期望差距,审计,P5-Ch17,审计框架
+expense,费用,会计原理,P1-Ch2,会计概念与原则
+exposure draft,征求意见稿,国际会计,P4-Ch15,国际会计准则理事会
+external (statutory) audit,外部（法定）审计,审计,P5-Ch17,审计框架
+external confirmation,外部函证,审计,P5-Ch18,收集审计证据
+face (par) value,面值,财务会计,P2-Ch7,负债
+facility-level activity,设施级作业,成本与管理会计,P3-Ch12,成本核算系统
+factoring,应收账款保理,财务会计,P2-Ch5,流动资产
+fair market value,公允市价,财务会计,P2-Ch8,所有者权益
+fair presentation,公允列报,审计,P5-Ch17,审计框架
+fair value,公允价值,会计原理,P1-Ch2,会计概念与原则
+fair value through other comprehensive income (FVOCI),以公允价值计量且变动计入其他综合收益,财务会计,P2-Ch6,投资、固定资产与无形资产
+fair value through profit or loss (FVTPL),以公允价值计量且变动计入当期损益,财务会计,P2-Ch6,投资、固定资产与无形资产
+fairly presented,公允列报,审计,P5-Ch19,对外审计报告
+faithful representation,忠实反映,会计原理,P1-Ch2,会计概念与原则
+familiarity threat,密切关系威胁,审计,P5-Ch17,审计框架
+FASB,美国财务会计准则委员会,国际会计,P4-Ch14,国际会计协调
+favourable / unfavourable variance,有利差异／不利差异,成本与管理会计,P3-Ch13,管理会计
+fictitious sales,虚构销售,审计,P5-Ch18,收集审计证据
+financial accounting,财务会计,会计原理,P1-Ch1,会计与环境
+financial asset,金融资产,财务会计,P2-Ch10,财务报表分析
+financial assets at amortised cost,以摊余成本计量的金融资产,财务会计,P2-Ch6,投资、固定资产与无形资产
+financial leverage,财务杠杆,财务会计,P2-Ch10,财务报表分析
+financial position,财务状况,会计原理,P1-Ch1,会计与环境
+financial ratio,财务比率,财务会计,P2-Ch10,财务报表分析
+financial statement analysis,财务报表分析,财务会计,P2-Ch10,财务报表分析
+finished goods,产成品,会计原理,P1-Ch3,财务报表
+"first-in, first-out (FIFO)",先进先出法,财务会计,P2-Ch5,流动资产
+"first-in, first-out (FIFO) method",先进先出法,成本与管理会计,P3-Ch12,成本核算系统
+fixed cost,固定成本,成本与管理会计,P3-Ch11,成本术语与概念介绍
+fixed manufacturing overhead,固定制造费用,成本与管理会计,P3-Ch12,成本核算系统
+fixed overhead,固定制造费用,成本与管理会计,P3-Ch12,成本核算系统
+flexible budget,弹性预算,成本与管理会计,P3-Ch13,管理会计
+forecast,预测,会计原理,P1-Ch1,会计与环境
+foreign currency transaction,外币交易,国际会计,P4-Ch16,跨国公司的特殊业务会计处理
+foreign currency translation,外币报表折算,国际会计,P4-Ch16,跨国公司的特殊业务会计处理
+forensic audit,舞弊调查审计,审计,P5-Ch17,审计框架
+free from error,免于差错,会计原理,P1-Ch2,会计概念与原则
+freehold,拥有所有权（自有土地）,财务会计,P2-Ch6,投资、固定资产与无形资产
+FSB,金融稳定理事会,国际会计,P4-Ch14,国际会计协调
+fulfilment value,清偿价值,会计原理,P1-Ch2,会计概念与原则
+full disclosure,充分披露,会计原理,P1-Ch2,会计概念与原则
+G20,二十国集团,国际会计,P4-Ch14,国际会计协调
+gain,利得,财务会计,P2-Ch9,经营成果
+gain / loss,利得／损失,会计原理,P1-Ch2,会计概念与原则
+general purpose financial reports,通用目的财务报告,会计原理,P1-Ch1,会计与环境
+generally accepted accounting principles (GAAP),一般公认会计原则,会计原理,P1-Ch1,会计与环境
+globalization of economies,经济全球化,国际会计,P4-Ch14,国际会计协调
+government audit,政府审计,审计,P5-Ch17,审计框架
+government statistics,政府统计数据,财务会计,P2-Ch10,财务报表分析
+gross price method,总价法,财务会计,P2-Ch7,负债
+gross wages,工资总额,成本与管理会计,P3-Ch11,成本术语与概念介绍
+harmonization,协调（趋同）,国际会计,P4-Ch14,国际会计协调
+hedge,套期保值,国际会计,P4-Ch15,国际会计准则理事会
+high-low method,高低点法,成本与管理会计,P3-Ch13,管理会计
+historical cost,历史成本,会计原理,P1-Ch2,会计概念与原则
+horizontal analysis,水平分析,财务会计,P2-Ch10,财务报表分析
+IAASB,国际审计与鉴证准则理事会,审计,P5-Ch17,审计框架
+IAESB,国际会计教育准则理事会,国际会计,P4-Ch14,国际会计协调
+idle time,闲置时间,成本与管理会计,P3-Ch11,成本术语与概念介绍
+IESBA,国际会计师职业道德准则理事会,国际会计,P4-Ch14,国际会计协调
+IFRS Advisory Council,IFRS 咨询委员会,国际会计,P4-Ch15,国际会计准则理事会
+IFRS Foundation,IFRS 基金会,国际会计,P4-Ch15,国际会计准则理事会
+IFRS Interpretations Committee,IFRS 解释委员会,国际会计,P4-Ch15,国际会计准则理事会
+immediate recognition,立即确认,财务会计,P2-Ch9,经营成果
+impairment,减值,财务会计,P2-Ch6,投资、固定资产与无形资产
+impairment reversal,减值转回,国际会计,P4-Ch15,国际会计准则理事会
+income,收益,会计原理,P1-Ch2,会计概念与原则
+income statement,利润表,会计原理,P1-Ch1,会计与环境
+independence,独立性,审计,P5-Ch17,审计框架
+independence in appearance,形式独立,审计,P5-Ch17,审计框架
+independence of mind,实质独立,审计,P5-Ch17,审计框架
+indirect cost / overhead,间接成本／制造费用,成本与管理会计,P3-Ch11,成本术语与概念介绍
+indirect labour,间接人工,成本与管理会计,P3-Ch11,成本术语与概念介绍
+information and communication,信息与沟通,审计,P5-Ch18,收集审计证据
+information asymmetry,信息不对称,审计,P5-Ch17,审计框架
+information processing,信息处理（控制）,审计,P5-Ch18,收集审计证据
+inherent risk,固有风险,审计,P5-Ch18,收集审计证据
+inquiry,询问,审计,P5-Ch18,收集审计证据
+inspection,检查,审计,P5-Ch18,收集审计证据
+installment sales,分期收款销售,财务会计,P2-Ch9,经营成果
+integrity,诚信,审计,P5-Ch17,审计框架
+interest cover,利息保障倍数,财务会计,P2-Ch10,财务报表分析
+interest receivable,应收利息,财务会计,P2-Ch5,流动资产
+internal audit,内部审计,审计,P5-Ch17,审计框架
+internal auditing,内部审计,会计原理,P1-Ch1,会计与环境
+internal control,内部控制,财务会计,P2-Ch5,流动资产
+International Accounting Standards (IAS),国际会计准则,国际会计,P4-Ch15,国际会计准则理事会
+International Accounting Standards Board (IASB),国际会计准则理事会,会计原理,P1-Ch1,会计与环境
+International Auditing and Assurance Standards Board (IAASB),国际审计与鉴证准则理事会,国际会计,P4-Ch14,国际会计协调
+International Federation of Accountants (IFAC),国际会计师联合会,国际会计,P4-Ch14,国际会计协调
+International Financial Reporting Standards (IFRS),国际财务报告准则,国际会计,P4-Ch15,国际会计准则理事会
+International Organization of Securities Commissions (IOSCO),国际证监会组织,国际会计,P4-Ch14,国际会计协调
+intimidation threat,胁迫威胁,审计,P5-Ch17,审计框架
+inventory,存货,财务会计,P2-Ch5,流动资产
+IOSCO Technical Committee,IOSCO 技术委员会,国际会计,P4-Ch15,国际会计准则理事会
+IPSASB,国际公共部门会计准则理事会,国际会计,P4-Ch14,国际会计协调
+job cost sheet,分批成本单,成本与管理会计,P3-Ch12,成本核算系统
+job costing,分批成本法,成本与管理会计,P3-Ch12,成本核算系统
+journal,日记账,会计原理,P1-Ch4,会计循环
+journal entry,日记账分录,会计原理,P1-Ch4,会计循环
+key audit matters (KAM),关键审计事项,审计,P5-Ch19,对外审计报告
+leasehold,拥有使用权（租赁土地）,财务会计,P2-Ch6,投资、固定资产与无形资产
+least-squares regression,最小二乘回归,成本与管理会计,P3-Ch13,管理会计
+ledger,分类账,会计原理,P1-Ch4,会计循环
+legal capital,法定资本,财务会计,P2-Ch8,所有者权益
+leverage,杠杆（财务杠杆）,财务会计,P2-Ch7,负债
+liability,负债,会计原理,P1-Ch2,会计概念与原则
+limited liability,有限责任,财务会计,P2-Ch8,所有者权益
+liquidate,清算,财务会计,P2-Ch8,所有者权益
+liquidity,流动性,财务会计,P2-Ch10,财务报表分析
+loss,损失,财务会计,P2-Ch9,经营成果
+lower of cost and net realisable value,成本与可变现净值孰低,财务会计,P2-Ch5,流动资产
+management by exception,例外管理,成本与管理会计,P3-Ch13,管理会计
+management override,管理层凌驾（控制）,审计,P5-Ch18,收集审计证据
+managerial (management) accounting,管理会计,会计原理,P1-Ch1,会计与环境
+manufacturing overhead,制造费用,成本与管理会计,P3-Ch11,成本术语与概念介绍
+margin of safety,安全边际,成本与管理会计,P3-Ch13,管理会计
+marginal (variable) costing,变动成本法,成本与管理会计,P3-Ch12,成本核算系统
+market (effective) interest rate,市场利率（实际利率）,财务会计,P2-Ch7,负债
+master budget,全面预算,成本与管理会计,P3-Ch13,管理会计
+matching principle,配比原则,会计原理,P1-Ch2,会计概念与原则
+material misstatement,重大错报,审计,P5-Ch19,对外审计报告
+materiality,重要性,会计原理,P1-Ch2,会计概念与原则
+maturity date,到期日,财务会计,P2-Ch7,负债
+measurement,计量,会计原理,P1-Ch2,会计概念与原则
+mergers and acquisitions (M&A),并购,国际会计,P4-Ch14,国际会计协调
+mixed (semi-variable) cost,混合成本,成本与管理会计,P3-Ch11,成本术语与概念介绍
+monetary items,货币性项目,国际会计,P4-Ch16,跨国公司的特殊业务会计处理
+monetary–non-monetary method,货币与非货币项目法,国际会计,P4-Ch16,跨国公司的特殊业务会计处理
+monitoring activities,监控活动,审计,P5-Ch18,收集审计证据
+net pay,实发工资,成本与管理会计,P3-Ch11,成本术语与概念介绍
+net profit margin,净利率,财务会计,P2-Ch10,财务报表分析
+net realisable value,可变现净值,会计原理,P1-Ch2,会计概念与原则
+neutrality,中立性,会计原理,P1-Ch2,会计概念与原则
+nominal value,名义价值,财务会计,P2-Ch9,经营成果
+non-monetary items,非货币性项目,国际会计,P4-Ch16,跨国公司的特殊业务会计处理
+non-value-added activity,非增值作业,成本与管理会计,P3-Ch12,成本核算系统
+normal loss,正常损耗,成本与管理会计,P3-Ch12,成本核算系统
+normal loss / abnormal loss,正常损耗／非正常损耗,成本与管理会计,P3-Ch11,成本术语与概念介绍
+Norwalk Agreement,诺沃克协议,国际会计,P4-Ch14,国际会计协调
+not-for-profits,非营利组织,会计原理,P1-Ch1,会计与环境
+objectivity,客观,审计,P5-Ch17,审计框架
+observation,观察,审计,P5-Ch18,收集审计证据
+occurrence,发生（认定）,审计,P5-Ch18,收集审计证据
+operating assets,经营资产,财务会计,P2-Ch10,财务报表分析
+operating cycle,营业周期,会计原理,P1-Ch3,财务报表
+operating leverage,经营杠杆,成本与管理会计,P3-Ch13,管理会计
+opinion paragraph,意见段,审计,P5-Ch19,对外审计报告
+opportunity cost,机会成本,成本与管理会计,P3-Ch11,成本术语与概念介绍
+ordinary shares,普通股,财务会计,P2-Ch8,所有者权益
+other comprehensive income (OCI),其他综合收益,会计原理,P1-Ch3,财务报表
+other information,其他信息,审计,P5-Ch19,对外审计报告
+other matter paragraph,其他事项段,审计,P5-Ch19,对外审计报告
+outstanding cheque,未兑现支票,财务会计,P2-Ch5,流动资产
+over-applied overhead,多分配制造费用,成本与管理会计,P3-Ch11,成本术语与概念介绍
+overhead absorption rate,制造费用吸收率,成本与管理会计,P3-Ch12,成本核算系统
+overtime premium,加班津贴,成本与管理会计,P3-Ch11,成本术语与概念介绍
+owners’ equity,所有者权益,财务会计,P2-Ch8,所有者权益
+par (nominal) value,面值（名义价值）,财务会计,P2-Ch8,所有者权益
+par value,面值,会计原理,P1-Ch4,会计循环
+parallel processing,平行分步生产,成本与管理会计,P3-Ch12,成本核算系统
+partnership,合伙（企业）,会计原理,P1-Ch1,会计与环境
+patent / trademark / copyright,专利／商标／版权,财务会计,P2-Ch6,投资、固定资产与无形资产
+payment date,股利支付日,财务会计,P2-Ch8,所有者权益
+pending litigation,未决诉讼,财务会计,P2-Ch7,负债
+percentage of credit sales method,赊销百分比法,财务会计,P2-Ch5,流动资产
+performance,业绩；经营成果,会计原理,P1-Ch1,会计与环境
+performance (value-for-money) audit,绩效审计,审计,P5-Ch17,审计框架
+performance materiality,可容忍错报（实际执行的重要性）,审计,P5-Ch18,收集审计证据
+performance obligation,履约义务,财务会计,P2-Ch9,经营成果
+period cost,期间费用,财务会计,P2-Ch9,经营成果
+periodic inventory system,定期盘存制,财务会计,P2-Ch5,流动资产
+permanent accounts,永久性账户,会计原理,P1-Ch4,会计循环
+perpetual inventory system,永续盘存制,财务会计,P2-Ch5,流动资产
+pervasive,广泛（影响）,审计,P5-Ch19,对外审计报告
+physical controls,实物控制,审计,P5-Ch18,收集审计证据
+plant assets / fixed assets,固定资产,财务会计,P2-Ch6,投资、固定资产与无形资产
+pooling of interests,权益结合法,国际会计,P4-Ch16,跨国公司的特殊业务会计处理
+post-implementation review,实施后审议,国际会计,P4-Ch15,国际会计准则理事会
+posting,过账,会计原理,P1-Ch4,会计循环
+predetermined overhead rate,预定制造费用分配率,成本与管理会计,P3-Ch11,成本术语与概念介绍
+predictive value,预测价值,会计原理,P1-Ch2,会计概念与原则
+preference shares,优先股,财务会计,P2-Ch8,所有者权益
+preferred shares (preferred stock),优先股,财务会计,P2-Ch8,所有者权益
+premium on bonds payable,应付债券溢价,财务会计,P2-Ch7,负债
+prepaid expense,预付费用,会计原理,P1-Ch4,会计循环
+present obligation,现时义务,财务会计,P2-Ch7,负债
+present value,现值,会计原理,P1-Ch2,会计概念与原则
+preventive control,预防性控制,审计,P5-Ch18,收集审计证据
+price variance,价格差异,成本与管理会计,P3-Ch13,管理会计
+price-earnings (P/E) ratio,市盈率,财务会计,P2-Ch10,财务报表分析
+prime cost,主要成本,成本与管理会计,P3-Ch11,成本术语与概念介绍
+principal,委托人（股东）,审计,P5-Ch17,审计框架
+principal vs agent,主要责任人与代理人,财务会计,P2-Ch9,经营成果
+principles-based standards,原则导向准则,国际会计,P4-Ch14,国际会计协调
+prior period adjustment,前期差错更正,财务会计,P2-Ch8,所有者权益
+process costing,分步成本法,成本与管理会计,P3-Ch12,成本核算系统
+product (inventoriable) cost,产品成本,成本与管理会计,P3-Ch11,成本术语与概念介绍
+product cost,产品成本,财务会计,P2-Ch9,经营成果
+product-level activity,产品级作业,成本与管理会计,P3-Ch12,成本核算系统
+production budget,生产预算,成本与管理会计,P3-Ch13,管理会计
+professional behaviour,良好职业行为,审计,P5-Ch17,审计框架
+professional body,职业团体,国际会计,P4-Ch14,国际会计协调
+professional competence and due care,专业胜任能力与应有的关注,审计,P5-Ch17,审计框架
+professional judgement,职业判断,国际会计,P4-Ch14,国际会计协调
+professional scepticism,职业怀疑,审计,P5-Ch17,审计框架
+"property, plant and equipment",不动产、厂房及设备,财务会计,P2-Ch6,投资、固定资产与无形资产
+"property, plant and equipment (PPE)",固定资产（不动产、厂房及设备）,会计原理,P1-Ch3,财务报表
+provision,预计负债,财务会计,P2-Ch7,负债
+prudence (conservatism),谨慎性（稳健主义）,会计原理,P1-Ch2,会计概念与原则
+purchase price allocation,购买价格分摊,国际会计,P4-Ch16,跨国公司的特殊业务会计处理
+qualitative characteristics,质量特征,会计原理,P1-Ch2,会计概念与原则
+quick (acid-test) ratio,速动比率,财务会计,P2-Ch10,财务报表分析
+rate variance,工资率差异,成本与管理会计,P3-Ch13,管理会计
+ratio analysis,比率分析,财务会计,P2-Ch10,财务报表分析
+raw materials,原材料,会计原理,P1-Ch3,财务报表
+re-performance,重新执行,审计,P5-Ch18,收集审计证据
+reasonable assurance,合理保证,审计,P5-Ch17,审计框架
+recalculation,重新计算,审计,P5-Ch18,收集审计证据
+receivable,应收款项,会计原理,P1-Ch2,会计概念与原则
+receivable turnover,应收账款周转率,财务会计,P2-Ch10,财务报表分析
+reciprocal method,交互分配法,成本与管理会计,P3-Ch11,成本术语与概念介绍
+recognition,确认,会计原理,P1-Ch2,会计概念与原则
+recognition and derecognition,确认与终止确认,国际会计,P4-Ch15,国际会计准则理事会
+record date,股权登记日,财务会计,P2-Ch8,所有者权益
+recoverable amount,可收回金额,财务会计,P2-Ch6,投资、固定资产与无形资产
+refund,退款,财务会计,P2-Ch9,经营成果
+relevance,相关性,会计原理,P1-Ch2,会计概念与原则
+relevant cost,相关成本,成本与管理会计,P3-Ch11,成本术语与概念介绍
+reporting date,报告日,会计原理,P1-Ch3,财务报表
+research and development (R&D),研究与开发,财务会计,P2-Ch6,投资、固定资产与无形资产
+reserves,储备（公积）,财务会计,P2-Ch8,所有者权益
+residual income (RI),剩余收益,成本与管理会计,P3-Ch13,管理会计
+residual value,预计净残值,财务会计,P2-Ch6,投资、固定资产与无形资产
+responsibilities of management,管理层的责任,审计,P5-Ch19,对外审计报告
+responsibility centre,责任中心,成本与管理会计,P3-Ch13,管理会计
+restructuring,重组,财务会计,P2-Ch7,负债
+retail method,零售价格法,财务会计,P2-Ch5,流动资产
+retrospective restatement,追溯重述,财务会计,P2-Ch8,所有者权益
+return on assets (ROA),总资产收益率,财务会计,P2-Ch10,财务报表分析
+return on equity (ROE),净资产收益率,财务会计,P2-Ch8,所有者权益
+return on investment (ROI),投资报酬率,成本与管理会计,P3-Ch13,管理会计
+revaluation model,重估模式,财务会计,P2-Ch6,投资、固定资产与无形资产
+revaluation surplus,重估盈余,财务会计,P2-Ch6,投资、固定资产与无形资产
+revenue expenditure,收益性支出,财务会计,P2-Ch6,投资、固定资产与无形资产
+right of return,销售退回权,财务会计,P2-Ch9,经营成果
+rights and obligations,权利与义务,审计,P5-Ch18,收集审计证据
+risk assessment procedures,风险评估程序,审计,P5-Ch18,收集审计证据
+risk of material misstatement,重大错报风险,审计,P5-Ch18,收集审计证据
+risk-based audit,风险导向审计,审计,P5-Ch18,收集审计证据
+rules-based standards,规则导向准则,国际会计,P4-Ch14,国际会计协调
+safeguards,防范措施,审计,P5-Ch17,审计框架
+salaries and wages payable,应付职工薪酬,财务会计,P2-Ch7,负债
+sales allowances,销售折让,财务会计,P2-Ch9,经营成果
+sales budget,销售预算,成本与管理会计,P3-Ch13,管理会计
+sales discount,销售折扣,会计原理,P1-Ch4,会计循环
+salvage value,残值,会计原理,P1-Ch4,会计循环
+sampling risk,抽样风险,审计,P5-Ch18,收集审计证据
+SARG,欧盟准则建议审议组,国际会计,P4-Ch14,国际会计协调
+scope paragraph,范围段,审计,P5-Ch19,对外审计报告
+Securities and Exchange Commission (SEC),美国证券交易委员会,国际会计,P4-Ch14,国际会计协调
+segregation of duties,职责分离,审计,P5-Ch18,收集审计证据
+self-interest threat,自身利益威胁,审计,P5-Ch17,审计框架
+self-review threat,自我评价威胁,审计,P5-Ch17,审计框架
+separation of duties,职责分离,财务会计,P2-Ch5,流动资产
+sequential numbering,顺序编号,审计,P5-Ch18,收集审计证据
+sequential processing,顺序分步生产,成本与管理会计,P3-Ch12,成本核算系统
+setup cost,设备调试成本,成本与管理会计,P3-Ch12,成本核算系统
+share issue costs,股票发行费用,财务会计,P2-Ch8,所有者权益
+share split,股票分割,财务会计,P2-Ch8,所有者权益
+shareholder,股东,审计,P5-Ch19,对外审计报告
+shareholders / stockholders,股东,财务会计,P2-Ch8,所有者权益
+shares outstanding,流通在外股份,财务会计,P2-Ch8,所有者权益
+shipping cost,运费,财务会计,P2-Ch9,经营成果
+signature of the engagement partner,项目合伙人签字,审计,P5-Ch19,对外审计报告
+significant risk,特别风险,审计,P5-Ch18,收集审计证据
+single-step form,单步式（利润表格式）,会计原理,P1-Ch3,财务报表
+social security and unemployment insurance tax,社会保险及失业保险税费,财务会计,P2-Ch7,负债
+sole proprietorship,独资（企业）,会计原理,P1-Ch1,会计与环境
+specific identification,个别计价法,财务会计,P2-Ch5,流动资产
+spending variance,支出差异,成本与管理会计,P3-Ch13,管理会计
+spot exchange rate,即期汇率,国际会计,P4-Ch16,跨国公司的特殊业务会计处理
+standard cost,标准成本,成本与管理会计,P3-Ch13,管理会计
+standardization,标准化（统一）,国际会计,P4-Ch14,国际会计协调
+Statement of Principles,（英国）原则公告,国际会计,P4-Ch15,国际会计准则理事会
+statutory surplus reserve,法定盈余公积,财务会计,P2-Ch8,所有者权益
+step-down method,顺序分配法（阶梯法）,成本与管理会计,P3-Ch11,成本术语与概念介绍
+stewardship,受托责任,审计,P5-Ch17,审计框架
+stock dividend,股票股利,财务会计,P2-Ch8,所有者权益
+stock option,股票期权,财务会计,P2-Ch8,所有者权益
+stocktake / physical count,实地盘点,财务会计,P2-Ch5,流动资产
+straight-line method,直线法,财务会计,P2-Ch6,投资、固定资产与无形资产
+sub-optimisation,次优化,成本与管理会计,P3-Ch13,管理会计
+substance over form,实质重于形式,会计原理,P1-Ch2,会计概念与原则
+substantive procedures,实质性程序,审计,P5-Ch18,收集审计证据
+sufficiency of audit evidence,审计证据的充分性,审计,P5-Ch18,收集审计证据
+sunk cost,沉没成本,成本与管理会计,P3-Ch11,成本术语与概念介绍
+supplies,物料用品,会计原理,P1-Ch4,会计循环
+systematic and rational allocation,系统合理分摊,财务会计,P2-Ch9,经营成果
+T-account,丁字账,会计原理,P1-Ch4,会计循环
+target profit,目标利润,成本与管理会计,P3-Ch13,管理会计
+temporal method,时态法,国际会计,P4-Ch16,跨国公司的特殊业务会计处理
+temporary accounts,临时性账户,会计原理,P1-Ch4,会计循环
+test of controls,控制测试,审计,P5-Ch18,收集审计证据
+tests of controls,控制测试（符合性测试）,审计,P5-Ch17,审计框架
+the conceptual framework for financial reporting,财务报告概念框架,会计原理,P1-Ch1,会计与环境
+time-series comparison,时间序列比较,财务会计,P2-Ch10,财务报表分析
+timeliness,及时性,会计原理,P1-Ch2,会计概念与原则
+total asset turnover,总资产周转率,财务会计,P2-Ch10,财务报表分析
+total control,总数控制（完整性核对）,审计,P5-Ch18,收集审计证据
+trade discount,商业折扣,财务会计,P2-Ch9,经营成果
+transaction cost,交易成本，交易费用,会计原理,P1-Ch2,会计概念与原则
+transaction price,交易价格,财务会计,P2-Ch9,经营成果
+transfer of control,控制权转移,财务会计,P2-Ch9,经营成果
+transferred-in cost,转入成本,成本与管理会计,P3-Ch12,成本核算系统
+translation reserve,外币折算储备,国际会计,P4-Ch16,跨国公司的特殊业务会计处理
+transparency,透明度,国际会计,P4-Ch14,国际会计协调
+treasury stock,库藏股（美式表述）,财务会计,P2-Ch8,所有者权益
+trend analysis,趋势分析,财务会计,P2-Ch10,财务报表分析
+trial balance,试算平衡表,会计原理,P1-Ch4,会计循环
+unable to obtain sufficient appropriate audit evidence,无法取得充分适当的审计证据,审计,P5-Ch19,对外审计报告
+under-applied overhead,少分配制造费用,成本与管理会计,P3-Ch11,成本术语与概念介绍
+understandability,可理解性,会计原理,P1-Ch2,会计概念与原则
+unearned revenue,预收收入（递延收入）,会计原理,P1-Ch4,会计循环
+unit-level activity,单位级作业,成本与管理会计,P3-Ch12,成本核算系统
+United Nations ISAR,联合国国际会计与报告准则政府间专家工作组,国际会计,P4-Ch14,国际会计协调
+units of production method,工作量法,财务会计,P2-Ch6,投资、固定资产与无形资产
+unmodified (unqualified) opinion,无保留意见,审计,P5-Ch19,对外审计报告
+unrealised profit,未实现利润,国际会计,P4-Ch16,跨国公司的特殊业务会计处理
+US GAAP,美国公认会计原则,国际会计,P4-Ch15,国际会计准则理事会
+usage (quantity) variance,用量差异,成本与管理会计,P3-Ch13,管理会计
+useful life,使用寿命,财务会计,P2-Ch6,投资、固定资产与无形资产
+valuation,计价（认定）,审计,P5-Ch18,收集审计证据
+valuation adjustments,计价调整,会计原理,P1-Ch4,会计循环
+valuation and allocation,计价与分摊,审计,P5-Ch18,收集审计证据
+value in use,使用价值（在用价值）,会计原理,P1-Ch2,会计概念与原则
+value-added activity,增值作业,成本与管理会计,P3-Ch12,成本核算系统
+value-added tax (VAT),增值税,财务会计,P2-Ch9,经营成果
+variable cost,变动成本,成本与管理会计,P3-Ch11,成本术语与概念介绍
+variable overhead,变动制造费用,成本与管理会计,P3-Ch12,成本核算系统
+verifiability,可验证性,会计原理,P1-Ch2,会计概念与原则
+vertical analysis,垂直分析,财务会计,P2-Ch10,财务报表分析
+volume rebate,数量折扣（返利）,财务会计,P2-Ch9,经营成果
+volume variance,产量差异,成本与管理会计,P3-Ch13,管理会计
+voting rights,表决权,财务会计,P2-Ch8,所有者权益
+wages payable,应付工资,会计原理,P1-Ch3,财务报表
+warranty,产品质量保证,财务会计,P2-Ch7,负债
+weighted average cost,加权平均成本,财务会计,P2-Ch5,流动资产
+weighted average method,加权平均法,成本与管理会计,P3-Ch12,成本核算系统
+window dressing,粉饰报表,财务会计,P2-Ch10,财务报表分析
+working capital,营运资本,财务会计,P2-Ch10,财务报表分析
+working papers,审计工作底稿,审计,P5-Ch18,收集审计证据
+worksheet,工作底稿,会计原理,P1-Ch4,会计循环
+World Bank,世界银行,国际会计,P4-Ch14,国际会计协调
+write-down,（存货）跌价减值,财务会计,P2-Ch5,流动资产
+write-off,核销,财务会计,P2-Ch6,投资、固定资产与无形资产
+written representation,书面声明,审计,P5-Ch18,收集审计证据
+zero-based budgeting (ZBB),零基预算,成本与管理会计,P3-Ch13,管理会计

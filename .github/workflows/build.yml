@@ -1,0 +1,81 @@
+name: build-launcher
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "launcher/**"
+      - "tools.json"
+      - "docs/app.ico"
+      - ".github/workflows/build.yml"
+  pull_request:
+    paths:
+      - "launcher/**"
+  workflow_dispatch:
+  release:
+    types: [published]
+
+permissions:
+  contents: write
+
+jobs:
+  windows-exe:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install PyInstaller
+        run: pip install pyinstaller
+
+      - name: Sanity check manifest
+        shell: python
+        run: |
+          import json
+          d = json.load(open("tools.json", encoding="utf-8-sig"))
+          ids = [t["id"] for t in d["tools"]]
+          assert len(ids) == len(set(ids)), "duplicate ids"
+          cats = {t["cat"] for t in d["tools"]}
+          missing = cats - set(d["categories"])
+          assert not missing, f"categories missing from list: {missing}"
+          for t in d["tools"]:
+              assert t["exe"].startswith("组件/") or t["exe"].startswith("apps/"), t["id"]
+          print(f"{len(ids)} tools, {len(d['categories'])} categories, manifest OK")
+
+      - name: Build launcher
+        shell: pwsh
+        run: |
+          pyinstaller --noconfirm --clean --onefile --windowed `
+            --name "中国审计机关常用工具包" `
+            --add-data "tools.json;." `
+            --icon "docs/app.ico" `
+            --distpath "launcher/dist" --workpath "launcher/build" --specpath "launcher" `
+            --exclude-module PyQt5 --exclude-module PyQt6 `
+            --exclude-module PySide2 --exclude-module PySide6 `
+            --exclude-module matplotlib --exclude-module scipy `
+            --exclude-module pandas --exclude-module tkinter.test `
+            "launcher/toolbox.py"
+
+      - name: Report size and hash
+        shell: pwsh
+        run: |
+          $exe = Get-ChildItem "launcher/dist/*.exe" | Select-Object -First 1
+          "size: {0:N0} bytes" -f $exe.Length
+          "sha256: " + (Get-FileHash $exe.FullName -Algorithm SHA256).Hash.ToLower()
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: china-audit-toolkit-launcher
+          path: launcher/dist/*.exe
+          if-no-files-found: error
+
+      - name: Attach to release
+        if: startsWith(github.ref, 'refs/tags/v') || github.event_name == 'release'
+        uses: softprops/action-gh-release@v2
+        with:
+          files: launcher/dist/*.exe
+          tag_name: ${{ github.event.release.tag_name || github.ref_name }}

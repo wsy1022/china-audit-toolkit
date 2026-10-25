@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+build/
+dist/
+*.spec
+launcher/build/
+launcher/dist/
+launcher/*.spec
+# 官方工具二进制不入库
+组件/
+*.exe
+!docs/*.exe
+.venv/

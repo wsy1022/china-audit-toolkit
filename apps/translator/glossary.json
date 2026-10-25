@@ -1,0 +1,3002 @@
+{
+"(monetary) unit of measurement": {
+"en": "(monetary) unit of measurement",
+"zh": "货币计量"
+},
+"abnormal loss": {
+"en": "abnormal loss",
+"zh": "非正常损耗"
+},
+"absolute assurance": {
+"en": "absolute assurance",
+"zh": "绝对保证"
+},
+"absorption (full) costing": {
+"en": "absorption (full) costing",
+"zh": "吸收成本法（全部成本法）"
+},
+"account form": {
+"en": "account form",
+"zh": "账户式（报表格式）"
+},
+"accountability": {
+"en": "accountability",
+"zh": "问责（受托履职）"
+},
+"accounting": {
+"en": "accounting",
+"zh": "会计；会计学"
+},
+"accounting equation": {
+"en": "accounting equation",
+"zh": "会计等式"
+},
+"accounting period": {
+"en": "accounting period",
+"zh": "会计期间；会计分期"
+},
+"accounting policy": {
+"en": "accounting policy",
+"zh": "会计政策"
+},
+"accounting process": {
+"en": "accounting process",
+"zh": "会计程序（识别、计量、记录、传递）"
+},
+"accounting profession": {
+"en": "accounting profession",
+"zh": "会计职业界"
+},
+"accounts payable": {
+"en": "accounts payable",
+"zh": "应付账款"
+},
+"accounts receivable": {
+"en": "accounts receivable",
+"zh": "应收账款"
+},
+"accounts receivable confirmation": {
+"en": "accounts receivable confirmation",
+"zh": "应收账款函证"
+},
+"accrual accounting": {
+"en": "accrual accounting",
+"zh": "权责发生制会计"
+},
+"accrual basis": {
+"en": "accrual basis",
+"zh": "权责发生制（应计制基础）"
+},
+"accrued asset": {
+"en": "accrued asset",
+"zh": "应计资产"
+},
+"accrued expense": {
+"en": "accrued expense",
+"zh": "应计费用"
+},
+"accrued liabilities": {
+"en": "accrued liabilities",
+"zh": "应计负债"
+},
+"accrued revenue": {
+"en": "accrued revenue",
+"zh": "应计收入"
+},
+"accumulated deficit": {
+"en": "accumulated deficit",
+"zh": "累计亏损"
+},
+"accumulated depreciation": {
+"en": "accumulated depreciation",
+"zh": "累计折旧"
+},
+"acquisition method": {
+"en": "acquisition method",
+"zh": "购买法"
+},
+"activity driver": {
+"en": "activity driver",
+"zh": "作业动因"
+},
+"activity-based costing (abc)": {
+"en": "activity-based costing (ABC)",
+"zh": "作业成本法"
+},
+"additional paid-in capital": {
+"en": "additional paid-in capital",
+"zh": "股本溢价（资本公积）"
+},
+"addressee": {
+"en": "addressee",
+"zh": "收件人"
+},
+"adjusting entry": {
+"en": "adjusting entry",
+"zh": "调整分录"
+},
+"administrative expenses": {
+"en": "administrative expenses",
+"zh": "管理费用"
+},
+"administrative overhead": {
+"en": "administrative overhead",
+"zh": "管理间接成本"
+},
+"adverse opinion": {
+"en": "adverse opinion",
+"zh": "否定意见"
+},
+"advocacy threat": {
+"en": "advocacy threat",
+"zh": "过度推介威胁"
+},
+"agency cost": {
+"en": "agency cost",
+"zh": "代理成本"
+},
+"agency theory": {
+"en": "agency theory",
+"zh": "代理理论"
+},
+"agent": {
+"en": "agent",
+"zh": "代理人（管理层）"
+},
+"aging of accounts receivable": {
+"en": "aging of accounts receivable",
+"zh": "应收账款账龄分析"
+},
+"allocation rate": {
+"en": "allocation rate",
+"zh": "分配率"
+},
+"allowance for doubtful accounts": {
+"en": "allowance for doubtful accounts",
+"zh": "坏账准备"
+},
+"allowance for doubtful debts": {
+"en": "allowance for doubtful debts",
+"zh": "坏账准备"
+},
+"allowance method": {
+"en": "allowance method",
+"zh": "备抵法"
+},
+"alternative procedures": {
+"en": "alternative procedures",
+"zh": "替代程序"
+},
+"amortisation": {
+"en": "amortisation",
+"zh": "摊销"
+},
+"amortised cost": {
+"en": "amortised cost",
+"zh": "摊余成本"
+},
+"analytical procedures": {
+"en": "analytical procedures",
+"zh": "分析性程序"
+},
+"annual report": {
+"en": "annual report",
+"zh": "年度报告"
+},
+"appropriateness of audit evidence": {
+"en": "appropriateness of audit evidence",
+"zh": "审计证据的适当性"
+},
+"appropriation of retained earnings": {
+"en": "appropriation of retained earnings",
+"zh": "留存收益拨定"
+},
+"assertions": {
+"en": "assertions",
+"zh": "认定"
+},
+"asset": {
+"en": "asset",
+"zh": "资产"
+},
+"associating cause and effect": {
+"en": "associating cause and effect",
+"zh": "因果配比"
+},
+"audit evidence": {
+"en": "audit evidence",
+"zh": "审计证据"
+},
+"audit risk": {
+"en": "audit risk",
+"zh": "审计风险"
+},
+"audit sampling": {
+"en": "audit sampling",
+"zh": "审计抽样"
+},
+"auditing": {
+"en": "auditing",
+"zh": "审计；审计学"
+},
+"auditor’s report": {
+"en": "auditor’s report",
+"zh": "审计报告"
+},
+"auditor’s responsibilities": {
+"en": "auditor’s responsibilities",
+"zh": "审计师的责任"
+},
+"available-for-sale securities": {
+"en": "available-for-sale securities",
+"zh": "可供出售证券（投资）"
+},
+"average rate": {
+"en": "average rate",
+"zh": "平均汇率"
+},
+"bad debt expense": {
+"en": "bad debt expense",
+"zh": "坏账费用"
+},
+"balance sheet": {
+"en": "balance sheet",
+"zh": "资产负债表"
+},
+"balanced scorecard": {
+"en": "balanced scorecard",
+"zh": "平衡计分卡"
+},
+"bank reconciliation": {
+"en": "bank reconciliation",
+"zh": "银行存款余额调节表"
+},
+"bargain purchase gain": {
+"en": "bargain purchase gain",
+"zh": "廉价购买利得"
+},
+"base year": {
+"en": "base year",
+"zh": "基期（基年）"
+},
+"basis for opinion": {
+"en": "basis for opinion",
+"zh": "形成审计意见的基础"
+},
+"batch-level activity": {
+"en": "batch-level activity",
+"zh": "批次级作业"
+},
+"board members (trustees)": {
+"en": "Board members (trustees)",
+"zh": "受托人"
+},
+"board of directors": {
+"en": "board of directors",
+"zh": "董事会"
+},
+"bond": {
+"en": "bond",
+"zh": "债券"
+},
+"bonds payable": {
+"en": "bonds payable",
+"zh": "应付债券"
+},
+"book value": {
+"en": "book value",
+"zh": "账面价值"
+},
+"book value per share": {
+"en": "book value per share",
+"zh": "每股账面价值"
+},
+"borrowing": {
+"en": "borrowing",
+"zh": "借款"
+},
+"break-even point": {
+"en": "break-even point",
+"zh": "保本点（盈亏平衡点）"
+},
+"budgetary slack": {
+"en": "budgetary slack",
+"zh": "预算松弛"
+},
+"budgeted statement of cash flows": {
+"en": "budgeted statement of cash flows",
+"zh": "预算现金流量表"
+},
+"budgeting": {
+"en": "budgeting",
+"zh": "预算（编制）"
+},
+"business combination": {
+"en": "business combination",
+"zh": "企业合并"
+},
+"business model": {
+"en": "business model",
+"zh": "业务模式"
+},
+"business risk": {
+"en": "business risk",
+"zh": "经营风险"
+},
+"business transaction": {
+"en": "business transaction",
+"zh": "交易事项"
+},
+"callability": {
+"en": "callability",
+"zh": "可赎回性"
+},
+"capital expenditure": {
+"en": "capital expenditure",
+"zh": "资本性支出"
+},
+"capital expenditures budget": {
+"en": "capital expenditures budget",
+"zh": "资本支出预算"
+},
+"capital maintenance": {
+"en": "capital maintenance",
+"zh": "资本维持"
+},
+"capitalise": {
+"en": "capitalise",
+"zh": "资本化"
+},
+"carrying amount": {
+"en": "carrying amount",
+"zh": "账面价值（摊余成本）"
+},
+"cash and cash equivalents": {
+"en": "cash and cash equivalents",
+"zh": "现金及现金等价物"
+},
+"cash basis": {
+"en": "cash basis",
+"zh": "收付实现制（现金基础）"
+},
+"cash budget": {
+"en": "cash budget",
+"zh": "现金预算"
+},
+"cash discount": {
+"en": "cash discount",
+"zh": "现金折扣"
+},
+"cash dividend": {
+"en": "cash dividend",
+"zh": "现金股利"
+},
+"cash flow statement": {
+"en": "cash flow statement",
+"zh": "现金流量表"
+},
+"certified public accountant (cpa)": {
+"en": "certified public accountant (CPA)",
+"zh": "注册会计师"
+},
+"chinese accounting standards (cas)": {
+"en": "Chinese Accounting Standards (CAS)",
+"zh": "中国企业会计准则"
+},
+"clock card": {
+"en": "clock card",
+"zh": "工时卡"
+},
+"closing entry": {
+"en": "closing entry",
+"zh": "结账分录"
+},
+"closing rate": {
+"en": "closing rate",
+"zh": "期末汇率"
+},
+"collusion": {
+"en": "collusion",
+"zh": "串通舞弊"
+},
+"common control combination": {
+"en": "common control combination",
+"zh": "同一控制下企业合并"
+},
+"common-size statement": {
+"en": "common-size statement",
+"zh": "共同比报表"
+},
+"comparability": {
+"en": "comparability",
+"zh": "可比性"
+},
+"comparative information": {
+"en": "comparative information",
+"zh": "比较信息"
+},
+"comparative statements": {
+"en": "comparative statements",
+"zh": "比较报表"
+},
+"completeness": {
+"en": "completeness",
+"zh": "完整性"
+},
+"compliance audit": {
+"en": "compliance audit",
+"zh": "合规审计"
+},
+"compound instrument": {
+"en": "compound instrument",
+"zh": "混合工具"
+},
+"conceptual framework": {
+"en": "conceptual framework",
+"zh": "概念框架"
+},
+"confidentiality": {
+"en": "confidentiality",
+"zh": "保密"
+},
+"confirmatory value": {
+"en": "confirmatory value",
+"zh": "确认价值"
+},
+"consideration": {
+"en": "consideration",
+"zh": "对价"
+},
+"consistency": {
+"en": "consistency",
+"zh": "一致性"
+},
+"consolidated financial statements": {
+"en": "consolidated financial statements",
+"zh": "合并财务报表"
+},
+"contingent asset": {
+"en": "contingent asset",
+"zh": "或有资产"
+},
+"contingent liability": {
+"en": "contingent liability",
+"zh": "或有负债"
+},
+"contra account": {
+"en": "contra account",
+"zh": "备抵账户"
+},
+"contract asset": {
+"en": "contract asset",
+"zh": "合同资产"
+},
+"contract liability": {
+"en": "contract liability",
+"zh": "合同负债"
+},
+"contractual cash flows": {
+"en": "contractual cash flows",
+"zh": "合同现金流量"
+},
+"contributed capital": {
+"en": "contributed capital",
+"zh": "投入资本"
+},
+"contribution margin": {
+"en": "contribution margin",
+"zh": "贡献毛益"
+},
+"contribution margin ratio": {
+"en": "contribution margin ratio",
+"zh": "贡献毛益率"
+},
+"control": {
+"en": "control",
+"zh": "控制"
+},
+"control activities": {
+"en": "control activities",
+"zh": "控制活动"
+},
+"control environment": {
+"en": "control environment",
+"zh": "控制环境"
+},
+"control objective": {
+"en": "control objective",
+"zh": "控制目标"
+},
+"control procedure": {
+"en": "control procedure",
+"zh": "控制程序"
+},
+"control risk": {
+"en": "control risk",
+"zh": "控制风险"
+},
+"convergence": {
+"en": "convergence",
+"zh": "趋同"
+},
+"conversion cost": {
+"en": "conversion cost",
+"zh": "加工成本"
+},
+"convertibility": {
+"en": "convertibility",
+"zh": "可转换性"
+},
+"convertible bonds": {
+"en": "convertible bonds",
+"zh": "可转换债券"
+},
+"corporation": {
+"en": "corporation",
+"zh": "公司"
+},
+"corrective control": {
+"en": "corrective control",
+"zh": "纠正性控制"
+},
+"cost accounting": {
+"en": "cost accounting",
+"zh": "成本会计"
+},
+"cost accumulation": {
+"en": "cost accumulation",
+"zh": "成本归集"
+},
+"cost allocation": {
+"en": "cost allocation",
+"zh": "成本分摊"
+},
+"cost assignment": {
+"en": "cost assignment",
+"zh": "成本分配"
+},
+"cost behaviour": {
+"en": "cost behaviour",
+"zh": "成本性态"
+},
+"cost constraint": {
+"en": "cost constraint",
+"zh": "成本约束（成本效益原则）"
+},
+"cost driver": {
+"en": "cost driver",
+"zh": "成本动因"
+},
+"cost flow assumption": {
+"en": "cost flow assumption",
+"zh": "成本流转假设"
+},
+"cost method": {
+"en": "cost method",
+"zh": "成本法"
+},
+"cost model": {
+"en": "cost model",
+"zh": "成本模式"
+},
+"cost object": {
+"en": "cost object",
+"zh": "成本对象"
+},
+"cost of capital": {
+"en": "cost of capital",
+"zh": "资本成本"
+},
+"cost of goods sold": {
+"en": "cost of goods sold",
+"zh": "销货成本"
+},
+"cost of sales": {
+"en": "cost of sales",
+"zh": "销售成本"
+},
+"cost pool": {
+"en": "cost pool",
+"zh": "成本池"
+},
+"cost tracing": {
+"en": "cost tracing",
+"zh": "成本追溯"
+},
+"cost-volume-profit (cvp) analysis": {
+"en": "cost-volume-profit (CVP) analysis",
+"zh": "本量利分析"
+},
+"coupon (stated) interest rate": {
+"en": "coupon (stated) interest rate",
+"zh": "票面利率"
+},
+"credit": {
+"en": "credit",
+"zh": "贷方"
+},
+"cross-border listing": {
+"en": "cross-border listing",
+"zh": "跨境上市"
+},
+"cross-subsidisation": {
+"en": "cross-subsidisation",
+"zh": "交叉补贴"
+},
+"cumulative preference shares": {
+"en": "cumulative preference shares",
+"zh": "累积优先股"
+},
+"current assets": {
+"en": "current assets",
+"zh": "流动资产"
+},
+"current cost": {
+"en": "current cost",
+"zh": "重置成本／现行成本"
+},
+"current liabilities": {
+"en": "current liabilities",
+"zh": "流动负债"
+},
+"current portion of long-term debt": {
+"en": "current portion of long-term debt",
+"zh": "一年内到期的非流动负债"
+},
+"current ratio": {
+"en": "current ratio",
+"zh": "流动比率"
+},
+"current value": {
+"en": "current value",
+"zh": "现行价值"
+},
+"current–non-current method": {
+"en": "current–non-current method",
+"zh": "流动与非流动项目法"
+},
+"cut-off": {
+"en": "cut-off",
+"zh": "截止"
+},
+"cut-off test": {
+"en": "cut-off test",
+"zh": "截止测试"
+},
+"date of the auditor’s report": {
+"en": "date of the auditor’s report",
+"zh": "审计报告日"
+},
+"dealer": {
+"en": "dealer",
+"zh": "经销商"
+},
+"debit": {
+"en": "debit",
+"zh": "借方"
+},
+"debt ratio": {
+"en": "debt ratio",
+"zh": "资产负债率"
+},
+"debt-to-equity ratio": {
+"en": "debt-to-equity ratio",
+"zh": "产权比率"
+},
+"declaration date": {
+"en": "declaration date",
+"zh": "股利宣告日"
+},
+"deferral": {
+"en": "deferral",
+"zh": "递延"
+},
+"department overhead": {
+"en": "department overhead",
+"zh": "部门制造费用"
+},
+"deposit in transit": {
+"en": "deposit in transit",
+"zh": "在途存款"
+},
+"depreciation": {
+"en": "depreciation",
+"zh": "折旧"
+},
+"derecognise": {
+"en": "derecognise",
+"zh": "终止确认"
+},
+"derecognition": {
+"en": "derecognition",
+"zh": "终止确认"
+},
+"detection risk": {
+"en": "detection risk",
+"zh": "检查风险"
+},
+"detective control": {
+"en": "detective control",
+"zh": "检查性控制"
+},
+"diluted eps": {
+"en": "diluted EPS",
+"zh": "稀释每股收益"
+},
+"diminishing (reducing) balance method": {
+"en": "diminishing (reducing) balance method",
+"zh": "余额递减法"
+},
+"direct cost": {
+"en": "direct cost",
+"zh": "直接成本"
+},
+"direct labour": {
+"en": "direct labour",
+"zh": "直接人工"
+},
+"direct labour budget": {
+"en": "direct labour budget",
+"zh": "直接人工预算"
+},
+"direct materials": {
+"en": "direct materials",
+"zh": "直接材料"
+},
+"direct materials budget": {
+"en": "direct materials budget",
+"zh": "直接材料预算"
+},
+"direct method": {
+"en": "direct method",
+"zh": "直接法（现金流量表）"
+},
+"direct write-off method": {
+"en": "direct write-off method",
+"zh": "直接转销法"
+},
+"directional testing": {
+"en": "directional testing",
+"zh": "方向性测试"
+},
+"directors’ report": {
+"en": "directors’ report",
+"zh": "董事会报告"
+},
+"disclaimer of opinion": {
+"en": "disclaimer of opinion",
+"zh": "无法表示意见"
+},
+"discount on bonds payable": {
+"en": "discount on bonds payable",
+"zh": "应付债券折价"
+},
+"discount rate": {
+"en": "discount rate",
+"zh": "折现率"
+},
+"discussion paper": {
+"en": "discussion paper",
+"zh": "讨论稿"
+},
+"disposal of assets": {
+"en": "disposal of assets",
+"zh": "资产处置"
+},
+"distribution costs": {
+"en": "distribution costs",
+"zh": "销售费用"
+},
+"dividend payout ratio": {
+"en": "dividend payout ratio",
+"zh": "股利支付率"
+},
+"dividend yield": {
+"en": "dividend yield",
+"zh": "股利收益率"
+},
+"dividends": {
+"en": "dividends",
+"zh": "股利"
+},
+"dividends receivable": {
+"en": "dividends receivable",
+"zh": "应收股利"
+},
+"do not present fairly": {
+"en": "do not present fairly",
+"zh": "未公允反映（否定意见表述）"
+},
+"double-entry bookkeeping": {
+"en": "double-entry bookkeeping",
+"zh": "复式记账"
+},
+"due process": {
+"en": "due process",
+"zh": "应循程序"
+},
+"dupont analysis": {
+"en": "DuPont analysis",
+"zh": "杜邦分析"
+},
+"dupont system": {
+"en": "DuPont system",
+"zh": "杜邦分析体系"
+},
+"earnings per share (eps)": {
+"en": "earnings per share (EPS)",
+"zh": "每股收益"
+},
+"economic entity": {
+"en": "economic entity",
+"zh": "会计主体；经济实体"
+},
+"effective interest method": {
+"en": "effective interest method",
+"zh": "实际利率法"
+},
+"effective interest rate method": {
+"en": "effective interest rate method",
+"zh": "实际利率法"
+},
+"efficiency variance": {
+"en": "efficiency variance",
+"zh": "效率差异"
+},
+"efrag": {
+"en": "EFRAG",
+"zh": "欧洲财务报告咨询组"
+},
+"elimination entry": {
+"en": "elimination entry",
+"zh": "抵销分录"
+},
+"emphasis of matter paragraph": {
+"en": "emphasis of matter paragraph",
+"zh": "强调事项段"
+},
+"enforcement": {
+"en": "enforcement",
+"zh": "执行（监管）"
+},
+"engagement quality control review": {
+"en": "engagement quality control review",
+"zh": "项目质量复核"
+},
+"entity concept": {
+"en": "entity concept",
+"zh": "实体理论"
+},
+"entity-level controls": {
+"en": "entity-level controls",
+"zh": "公司层面控制"
+},
+"equity / owners’ equity": {
+"en": "equity / owners’ equity",
+"zh": "权益／所有者权益"
+},
+"equity component": {
+"en": "equity component",
+"zh": "权益成分"
+},
+"equity method": {
+"en": "equity method",
+"zh": "权益法"
+},
+"equity multiplier": {
+"en": "equity multiplier",
+"zh": "权益乘数"
+},
+"equivalent units": {
+"en": "equivalent units",
+"zh": "约当产量"
+},
+"european commission": {
+"en": "European Commission",
+"zh": "欧盟委员会"
+},
+"european union (eu)": {
+"en": "European Union (EU)",
+"zh": "欧盟"
+},
+"except for": {
+"en": "except for",
+"zh": "除……之外（保留意见表述）"
+},
+"exchange gain/loss": {
+"en": "exchange gain/loss",
+"zh": "汇兑损益"
+},
+"existence": {
+"en": "existence",
+"zh": "存在"
+},
+"expectation gap": {
+"en": "expectation gap",
+"zh": "期望差距"
+},
+"expense": {
+"en": "expense",
+"zh": "费用"
+},
+"exposure draft": {
+"en": "exposure draft",
+"zh": "征求意见稿"
+},
+"external (statutory) audit": {
+"en": "external (statutory) audit",
+"zh": "外部（法定）审计"
+},
+"external confirmation": {
+"en": "external confirmation",
+"zh": "外部函证"
+},
+"face (par) value": {
+"en": "face (par) value",
+"zh": "面值"
+},
+"facility-level activity": {
+"en": "facility-level activity",
+"zh": "设施级作业"
+},
+"factoring": {
+"en": "factoring",
+"zh": "应收账款保理"
+},
+"fair market value": {
+"en": "fair market value",
+"zh": "公允市价"
+},
+"fair presentation": {
+"en": "fair presentation",
+"zh": "公允列报"
+},
+"fair value": {
+"en": "fair value",
+"zh": "公允价值"
+},
+"fair value through other comprehensive income (fvoci)": {
+"en": "fair value through other comprehensive income (FVOCI)",
+"zh": "以公允价值计量且变动计入其他综合收益"
+},
+"fair value through profit or loss (fvtpl)": {
+"en": "fair value through profit or loss (FVTPL)",
+"zh": "以公允价值计量且变动计入当期损益"
+},
+"fairly presented": {
+"en": "fairly presented",
+"zh": "公允列报"
+},
+"faithful representation": {
+"en": "faithful representation",
+"zh": "忠实反映"
+},
+"familiarity threat": {
+"en": "familiarity threat",
+"zh": "密切关系威胁"
+},
+"fasb": {
+"en": "FASB",
+"zh": "美国财务会计准则委员会"
+},
+"favourable / unfavourable variance": {
+"en": "favourable / unfavourable variance",
+"zh": "有利差异／不利差异"
+},
+"fictitious sales": {
+"en": "fictitious sales",
+"zh": "虚构销售"
+},
+"finance costs": {
+"en": "finance costs",
+"zh": "财务费用"
+},
+"financial accounting": {
+"en": "financial accounting",
+"zh": "财务会计"
+},
+"financial asset": {
+"en": "financial asset",
+"zh": "金融资产"
+},
+"financial assets at amortised cost": {
+"en": "financial assets at amortised cost",
+"zh": "以摊余成本计量的金融资产"
+},
+"financial leverage": {
+"en": "financial leverage",
+"zh": "财务杠杆"
+},
+"financial position": {
+"en": "financial position",
+"zh": "财务状况"
+},
+"financial ratio": {
+"en": "financial ratio",
+"zh": "财务比率"
+},
+"financial statement analysis": {
+"en": "financial statement analysis",
+"zh": "财务报表分析"
+},
+"financing activities": {
+"en": "financing activities",
+"zh": "筹资活动"
+},
+"finished goods": {
+"en": "finished goods",
+"zh": "产成品"
+},
+"first-in, first-out (fifo)": {
+"en": "first-in, first-out (FIFO)",
+"zh": "先进先出法"
+},
+"first-in, first-out (fifo) method": {
+"en": "first-in, first-out (FIFO) method",
+"zh": "先进先出法"
+},
+"fixed cost": {
+"en": "fixed cost",
+"zh": "固定成本"
+},
+"fixed manufacturing overhead": {
+"en": "fixed manufacturing overhead",
+"zh": "固定制造费用"
+},
+"fixed overhead": {
+"en": "fixed overhead",
+"zh": "固定制造费用"
+},
+"flexible budget": {
+"en": "flexible budget",
+"zh": "弹性预算"
+},
+"forecast": {
+"en": "forecast",
+"zh": "预测"
+},
+"foreign currency transaction": {
+"en": "foreign currency transaction",
+"zh": "外币交易"
+},
+"foreign currency translation": {
+"en": "foreign currency translation",
+"zh": "外币报表折算"
+},
+"forensic audit": {
+"en": "forensic audit",
+"zh": "舞弊调查审计"
+},
+"free cash flow": {
+"en": "free cash flow",
+"zh": "自由现金流"
+},
+"free from error": {
+"en": "free from error",
+"zh": "免于差错"
+},
+"freehold": {
+"en": "freehold",
+"zh": "拥有所有权（自有土地）"
+},
+"fsb": {
+"en": "FSB",
+"zh": "金融稳定理事会"
+},
+"fulfilment value": {
+"en": "fulfilment value",
+"zh": "清偿价值"
+},
+"full disclosure": {
+"en": "full disclosure",
+"zh": "充分披露"
+},
+"functional currency": {
+"en": "functional currency",
+"zh": "功能性货币"
+},
+"g20": {
+"en": "G20",
+"zh": "二十国集团"
+},
+"gain": {
+"en": "gain",
+"zh": "利得"
+},
+"gain / loss": {
+"en": "gain / loss",
+"zh": "利得／损失"
+},
+"general purpose financial reports": {
+"en": "general purpose financial reports",
+"zh": "通用目的财务报告"
+},
+"generally accepted accounting principles (gaap)": {
+"en": "generally accepted accounting principles (GAAP)",
+"zh": "一般公认会计原则"
+},
+"globalization of economies": {
+"en": "globalization of economies",
+"zh": "经济全球化"
+},
+"going concern": {
+"en": "going concern",
+"zh": "持续经营"
+},
+"goodwill": {
+"en": "goodwill",
+"zh": "商誉"
+},
+"government audit": {
+"en": "government audit",
+"zh": "政府审计"
+},
+"government statistics": {
+"en": "government statistics",
+"zh": "政府统计数据"
+},
+"gross margin": {
+"en": "gross margin",
+"zh": "毛利率"
+},
+"gross price method": {
+"en": "gross price method",
+"zh": "总价法"
+},
+"gross profit": {
+"en": "gross profit",
+"zh": "毛利"
+},
+"gross wages": {
+"en": "gross wages",
+"zh": "工资总额"
+},
+"harmonization": {
+"en": "harmonization",
+"zh": "协调（趋同）"
+},
+"hedge": {
+"en": "hedge",
+"zh": "套期保值"
+},
+"high-low method": {
+"en": "high-low method",
+"zh": "高低点法"
+},
+"historical cost": {
+"en": "historical cost",
+"zh": "历史成本"
+},
+"horizontal analysis": {
+"en": "horizontal analysis",
+"zh": "水平分析"
+},
+"iaasb": {
+"en": "IAASB",
+"zh": "国际审计与鉴证准则理事会"
+},
+"iaesb": {
+"en": "IAESB",
+"zh": "国际会计教育准则理事会"
+},
+"idle time": {
+"en": "idle time",
+"zh": "闲置时间"
+},
+"iesba": {
+"en": "IESBA",
+"zh": "国际会计师职业道德准则理事会"
+},
+"ifrs advisory council": {
+"en": "IFRS Advisory Council",
+"zh": "IFRS 咨询委员会"
+},
+"ifrs foundation": {
+"en": "IFRS Foundation",
+"zh": "IFRS 基金会"
+},
+"ifrs interpretations committee": {
+"en": "IFRS Interpretations Committee",
+"zh": "IFRS 解释委员会"
+},
+"immediate recognition": {
+"en": "immediate recognition",
+"zh": "立即确认"
+},
+"impairment": {
+"en": "impairment",
+"zh": "减值"
+},
+"impairment reversal": {
+"en": "impairment reversal",
+"zh": "减值转回"
+},
+"income": {
+"en": "income",
+"zh": "收益"
+},
+"income statement": {
+"en": "income statement",
+"zh": "利润表"
+},
+"income tax expense": {
+"en": "income tax expense",
+"zh": "所得税费用"
+},
+"independence": {
+"en": "independence",
+"zh": "独立性"
+},
+"independence in appearance": {
+"en": "independence in appearance",
+"zh": "形式独立"
+},
+"independence of mind": {
+"en": "independence of mind",
+"zh": "实质独立"
+},
+"indirect cost / overhead": {
+"en": "indirect cost / overhead",
+"zh": "间接成本／制造费用"
+},
+"indirect labour": {
+"en": "indirect labour",
+"zh": "间接人工"
+},
+"information and communication": {
+"en": "information and communication",
+"zh": "信息与沟通"
+},
+"information asymmetry": {
+"en": "information asymmetry",
+"zh": "信息不对称"
+},
+"information processing": {
+"en": "information processing",
+"zh": "信息处理（控制）"
+},
+"inherent risk": {
+"en": "inherent risk",
+"zh": "固有风险"
+},
+"inquiry": {
+"en": "inquiry",
+"zh": "询问"
+},
+"inspection": {
+"en": "inspection",
+"zh": "检查"
+},
+"installment sales": {
+"en": "installment sales",
+"zh": "分期收款销售"
+},
+"intangible assets": {
+"en": "intangible assets",
+"zh": "无形资产"
+},
+"integrity": {
+"en": "integrity",
+"zh": "诚信"
+},
+"interest cover": {
+"en": "interest cover",
+"zh": "利息保障倍数"
+},
+"interest receivable": {
+"en": "interest receivable",
+"zh": "应收利息"
+},
+"internal audit": {
+"en": "internal audit",
+"zh": "内部审计"
+},
+"internal auditing": {
+"en": "internal auditing",
+"zh": "内部审计"
+},
+"internal control": {
+"en": "internal control",
+"zh": "内部控制"
+},
+"international accounting standards (ias)": {
+"en": "International Accounting Standards (IAS)",
+"zh": "国际会计准则"
+},
+"international accounting standards board (iasb)": {
+"en": "International Accounting Standards Board (IASB)",
+"zh": "国际会计准则理事会"
+},
+"international auditing and assurance standards board (iaasb)": {
+"en": "International Auditing and Assurance Standards Board (IAASB)",
+"zh": "国际审计与鉴证准则理事会"
+},
+"international federation of accountants (ifac)": {
+"en": "International Federation of Accountants (IFAC)",
+"zh": "国际会计师联合会"
+},
+"international financial reporting standards (ifrs)": {
+"en": "International Financial Reporting Standards (IFRS)",
+"zh": "国际财务报告准则"
+},
+"international organization of securities commissions (iosco)": {
+"en": "International Organization of Securities Commissions (IOSCO)",
+"zh": "国际证监会组织"
+},
+"intimidation threat": {
+"en": "intimidation threat",
+"zh": "胁迫威胁"
+},
+"inventory": {
+"en": "inventory",
+"zh": "存货"
+},
+"inventory turnover": {
+"en": "inventory turnover",
+"zh": "存货周转率"
+},
+"investing activities": {
+"en": "investing activities",
+"zh": "投资活动"
+},
+"investment property": {
+"en": "investment property",
+"zh": "投资性房地产"
+},
+"iosco technical committee": {
+"en": "IOSCO Technical Committee",
+"zh": "IOSCO 技术委员会"
+},
+"ipsasb": {
+"en": "IPSASB",
+"zh": "国际公共部门会计准则理事会"
+},
+"job cost sheet": {
+"en": "job cost sheet",
+"zh": "分批成本单"
+},
+"job costing": {
+"en": "job costing",
+"zh": "分批成本法"
+},
+"journal": {
+"en": "journal",
+"zh": "日记账"
+},
+"journal entry": {
+"en": "journal entry",
+"zh": "日记账分录"
+},
+"key audit matters (kam)": {
+"en": "key audit matters (KAM)",
+"zh": "关键审计事项"
+},
+"leasehold": {
+"en": "leasehold",
+"zh": "拥有使用权（租赁土地）"
+},
+"least-squares regression": {
+"en": "least-squares regression",
+"zh": "最小二乘回归"
+},
+"ledger": {
+"en": "ledger",
+"zh": "分类账"
+},
+"legal capital": {
+"en": "legal capital",
+"zh": "法定资本"
+},
+"leverage": {
+"en": "leverage",
+"zh": "杠杆（财务杠杆）"
+},
+"liability": {
+"en": "liability",
+"zh": "负债"
+},
+"limited liability": {
+"en": "limited liability",
+"zh": "有限责任"
+},
+"liquidate": {
+"en": "liquidate",
+"zh": "清算"
+},
+"liquidity": {
+"en": "liquidity",
+"zh": "流动性"
+},
+"loss": {
+"en": "loss",
+"zh": "损失"
+},
+"lower of cost and net realisable value": {
+"en": "lower of cost and net realisable value",
+"zh": "成本与可变现净值孰低"
+},
+"management by exception": {
+"en": "management by exception",
+"zh": "例外管理"
+},
+"management override": {
+"en": "management override",
+"zh": "管理层凌驾（控制）"
+},
+"managerial (management) accounting": {
+"en": "managerial (management) accounting",
+"zh": "管理会计"
+},
+"manufacturing overhead": {
+"en": "manufacturing overhead",
+"zh": "制造费用"
+},
+"margin of safety": {
+"en": "margin of safety",
+"zh": "安全边际"
+},
+"marginal (variable) costing": {
+"en": "marginal (variable) costing",
+"zh": "变动成本法"
+},
+"market (effective) interest rate": {
+"en": "market (effective) interest rate",
+"zh": "市场利率（实际利率）"
+},
+"master budget": {
+"en": "master budget",
+"zh": "全面预算"
+},
+"matching principle": {
+"en": "matching principle",
+"zh": "配比原则"
+},
+"material misstatement": {
+"en": "material misstatement",
+"zh": "重大错报"
+},
+"material uncertainty related to going concern": {
+"en": "material uncertainty related to going concern",
+"zh": "与持续经营相关的重大不确定性"
+},
+"materiality": {
+"en": "materiality",
+"zh": "重要性"
+},
+"maturity date": {
+"en": "maturity date",
+"zh": "到期日"
+},
+"measurement": {
+"en": "measurement",
+"zh": "计量"
+},
+"mergers and acquisitions (m&a)": {
+"en": "mergers and acquisitions (M&A)",
+"zh": "并购"
+},
+"mixed (semi-variable) cost": {
+"en": "mixed (semi-variable) cost",
+"zh": "混合成本"
+},
+"monetary items": {
+"en": "monetary items",
+"zh": "货币性项目"
+},
+"monetary–non-monetary method": {
+"en": "monetary–non-monetary method",
+"zh": "货币与非货币项目法"
+},
+"monitoring activities": {
+"en": "monitoring activities",
+"zh": "监控活动"
+},
+"net pay": {
+"en": "net pay",
+"zh": "实发工资"
+},
+"net profit margin": {
+"en": "net profit margin",
+"zh": "净利率"
+},
+"net realisable value": {
+"en": "net realisable value",
+"zh": "可变现净值"
+},
+"neutrality": {
+"en": "neutrality",
+"zh": "中立性"
+},
+"nominal value": {
+"en": "nominal value",
+"zh": "名义价值"
+},
+"non-controlling interests": {
+"en": "non-controlling interests",
+"zh": "少数股东权益"
+},
+"non-current assets": {
+"en": "non-current assets",
+"zh": "非流动资产"
+},
+"non-current liabilities": {
+"en": "non-current liabilities",
+"zh": "非流动负债"
+},
+"non-monetary items": {
+"en": "non-monetary items",
+"zh": "非货币性项目"
+},
+"non-value-added activity": {
+"en": "non-value-added activity",
+"zh": "非增值作业"
+},
+"normal loss": {
+"en": "normal loss",
+"zh": "正常损耗"
+},
+"normal loss / abnormal loss": {
+"en": "normal loss / abnormal loss",
+"zh": "正常损耗／非正常损耗"
+},
+"norwalk agreement": {
+"en": "Norwalk Agreement",
+"zh": "诺沃克协议"
+},
+"not-for-profits": {
+"en": "not-for-profits",
+"zh": "非营利组织"
+},
+"notes payable": {
+"en": "notes payable",
+"zh": "应付票据"
+},
+"notes receivable": {
+"en": "notes receivable",
+"zh": "应收票据"
+},
+"notes to the financial statements": {
+"en": "notes to the financial statements",
+"zh": "财务报表附注"
+},
+"objectivity": {
+"en": "objectivity",
+"zh": "客观"
+},
+"observation": {
+"en": "observation",
+"zh": "观察"
+},
+"occurrence": {
+"en": "occurrence",
+"zh": "发生（认定）"
+},
+"operating activities": {
+"en": "operating activities",
+"zh": "经营活动"
+},
+"operating assets": {
+"en": "operating assets",
+"zh": "经营资产"
+},
+"operating cycle": {
+"en": "operating cycle",
+"zh": "营业周期"
+},
+"operating leverage": {
+"en": "operating leverage",
+"zh": "经营杠杆"
+},
+"operating profit": {
+"en": "operating profit",
+"zh": "营业利润"
+},
+"opinion paragraph": {
+"en": "opinion paragraph",
+"zh": "意见段"
+},
+"opportunity cost": {
+"en": "opportunity cost",
+"zh": "机会成本"
+},
+"ordinary shares": {
+"en": "ordinary shares",
+"zh": "普通股"
+},
+"other comprehensive income (oci)": {
+"en": "other comprehensive income (OCI)",
+"zh": "其他综合收益"
+},
+"other information": {
+"en": "other information",
+"zh": "其他信息"
+},
+"other matter paragraph": {
+"en": "other matter paragraph",
+"zh": "其他事项段"
+},
+"outstanding cheque": {
+"en": "outstanding cheque",
+"zh": "未兑现支票"
+},
+"over-applied overhead": {
+"en": "over-applied overhead",
+"zh": "多分配制造费用"
+},
+"overhead absorption rate": {
+"en": "overhead absorption rate",
+"zh": "制造费用吸收率"
+},
+"overtime premium": {
+"en": "overtime premium",
+"zh": "加班津贴"
+},
+"owners’ equity": {
+"en": "owners’ equity",
+"zh": "所有者权益"
+},
+"par (nominal) value": {
+"en": "par (nominal) value",
+"zh": "面值（名义价值）"
+},
+"par value": {
+"en": "par value",
+"zh": "面值"
+},
+"parallel processing": {
+"en": "parallel processing",
+"zh": "平行分步生产"
+},
+"partnership": {
+"en": "partnership",
+"zh": "合伙（企业）"
+},
+"patent / trademark / copyright": {
+"en": "patent / trademark / copyright",
+"zh": "专利／商标／版权"
+},
+"payment date": {
+"en": "payment date",
+"zh": "股利支付日"
+},
+"pending litigation": {
+"en": "pending litigation",
+"zh": "未决诉讼"
+},
+"percentage of credit sales method": {
+"en": "percentage of credit sales method",
+"zh": "赊销百分比法"
+},
+"performance": {
+"en": "performance",
+"zh": "业绩；经营成果"
+},
+"performance (value-for-money) audit": {
+"en": "performance (value-for-money) audit",
+"zh": "绩效审计"
+},
+"performance materiality": {
+"en": "performance materiality",
+"zh": "可容忍错报（实际执行的重要性）"
+},
+"performance obligation": {
+"en": "performance obligation",
+"zh": "履约义务"
+},
+"period cost": {
+"en": "period cost",
+"zh": "期间费用"
+},
+"periodic inventory system": {
+"en": "periodic inventory system",
+"zh": "定期盘存制"
+},
+"permanent accounts": {
+"en": "permanent accounts",
+"zh": "永久性账户"
+},
+"perpetual inventory system": {
+"en": "perpetual inventory system",
+"zh": "永续盘存制"
+},
+"pervasive": {
+"en": "pervasive",
+"zh": "广泛（影响）"
+},
+"physical controls": {
+"en": "physical controls",
+"zh": "实物控制"
+},
+"plant assets / fixed assets": {
+"en": "plant assets / fixed assets",
+"zh": "固定资产"
+},
+"pooling of interests": {
+"en": "pooling of interests",
+"zh": "权益结合法"
+},
+"post-implementation review": {
+"en": "post-implementation review",
+"zh": "实施后审议"
+},
+"posting": {
+"en": "posting",
+"zh": "过账"
+},
+"predetermined overhead rate": {
+"en": "predetermined overhead rate",
+"zh": "预定制造费用分配率"
+},
+"predictive value": {
+"en": "predictive value",
+"zh": "预测价值"
+},
+"preference shares": {
+"en": "preference shares",
+"zh": "优先股"
+},
+"preferred shares (preferred stock)": {
+"en": "preferred shares (preferred stock)",
+"zh": "优先股"
+},
+"premium on bonds payable": {
+"en": "premium on bonds payable",
+"zh": "应付债券溢价"
+},
+"prepaid expense": {
+"en": "prepaid expense",
+"zh": "预付费用"
+},
+"prepaid expenses": {
+"en": "prepaid expenses",
+"zh": "预付费用"
+},
+"present obligation": {
+"en": "present obligation",
+"zh": "现时义务"
+},
+"present value": {
+"en": "present value",
+"zh": "现值"
+},
+"presentation currency": {
+"en": "presentation currency",
+"zh": "列报货币"
+},
+"preventive control": {
+"en": "preventive control",
+"zh": "预防性控制"
+},
+"price variance": {
+"en": "price variance",
+"zh": "价格差异"
+},
+"price-earnings (p/e) ratio": {
+"en": "price-earnings (P/E) ratio",
+"zh": "市盈率"
+},
+"prime cost": {
+"en": "prime cost",
+"zh": "主要成本"
+},
+"principal": {
+"en": "principal",
+"zh": "委托人（股东）"
+},
+"principal vs agent": {
+"en": "principal vs agent",
+"zh": "主要责任人与代理人"
+},
+"principles-based standards": {
+"en": "principles-based standards",
+"zh": "原则导向准则"
+},
+"prior period adjustment": {
+"en": "prior period adjustment",
+"zh": "前期差错更正"
+},
+"process costing": {
+"en": "process costing",
+"zh": "分步成本法"
+},
+"product (inventoriable) cost": {
+"en": "product (inventoriable) cost",
+"zh": "产品成本"
+},
+"product cost": {
+"en": "product cost",
+"zh": "产品成本"
+},
+"product-level activity": {
+"en": "product-level activity",
+"zh": "产品级作业"
+},
+"production budget": {
+"en": "production budget",
+"zh": "生产预算"
+},
+"professional behaviour": {
+"en": "professional behaviour",
+"zh": "良好职业行为"
+},
+"professional body": {
+"en": "professional body",
+"zh": "职业团体"
+},
+"professional competence and due care": {
+"en": "professional competence and due care",
+"zh": "专业胜任能力与应有的关注"
+},
+"professional judgement": {
+"en": "professional judgement",
+"zh": "职业判断"
+},
+"professional scepticism": {
+"en": "professional scepticism",
+"zh": "职业怀疑"
+},
+"profit before tax": {
+"en": "profit before tax",
+"zh": "税前利润"
+},
+"profit for the year": {
+"en": "profit for the year",
+"zh": "本年利润（净利润）"
+},
+"property, plant and equipment": {
+"en": "property, plant and equipment",
+"zh": "不动产、厂房及设备"
+},
+"property, plant and equipment (ppe)": {
+"en": "property, plant and equipment (PPE)",
+"zh": "固定资产（不动产、厂房及设备）"
+},
+"provision": {
+"en": "provision",
+"zh": "预计负债"
+},
+"prudence (conservatism)": {
+"en": "prudence (conservatism)",
+"zh": "谨慎性（稳健主义）"
+},
+"purchase price allocation": {
+"en": "purchase price allocation",
+"zh": "购买价格分摊"
+},
+"qualified opinion": {
+"en": "qualified opinion",
+"zh": "保留意见"
+},
+"qualitative characteristics": {
+"en": "qualitative characteristics",
+"zh": "质量特征"
+},
+"quick (acid-test) ratio": {
+"en": "quick (acid-test) ratio",
+"zh": "速动比率"
+},
+"rate variance": {
+"en": "rate variance",
+"zh": "工资率差异"
+},
+"ratio analysis": {
+"en": "ratio analysis",
+"zh": "比率分析"
+},
+"raw materials": {
+"en": "raw materials",
+"zh": "原材料"
+},
+"re-performance": {
+"en": "re-performance",
+"zh": "重新执行"
+},
+"reasonable assurance": {
+"en": "reasonable assurance",
+"zh": "合理保证"
+},
+"recalculation": {
+"en": "recalculation",
+"zh": "重新计算"
+},
+"receivable": {
+"en": "receivable",
+"zh": "应收款项"
+},
+"receivable turnover": {
+"en": "receivable turnover",
+"zh": "应收账款周转率"
+},
+"reciprocal method": {
+"en": "reciprocal method",
+"zh": "交互分配法"
+},
+"recognition": {
+"en": "recognition",
+"zh": "确认"
+},
+"recognition and derecognition": {
+"en": "recognition and derecognition",
+"zh": "确认与终止确认"
+},
+"record date": {
+"en": "record date",
+"zh": "股权登记日"
+},
+"recoverable amount": {
+"en": "recoverable amount",
+"zh": "可收回金额"
+},
+"refund": {
+"en": "refund",
+"zh": "退款"
+},
+"relevance": {
+"en": "relevance",
+"zh": "相关性"
+},
+"relevant cost": {
+"en": "relevant cost",
+"zh": "相关成本"
+},
+"reporting date": {
+"en": "reporting date",
+"zh": "报告日"
+},
+"research and development (r&d)": {
+"en": "research and development (R&D)",
+"zh": "研究与开发"
+},
+"reserves": {
+"en": "reserves",
+"zh": "储备（公积）"
+},
+"residual income (ri)": {
+"en": "residual income (RI)",
+"zh": "剩余收益"
+},
+"residual value": {
+"en": "residual value",
+"zh": "预计净残值"
+},
+"responsibilities of management": {
+"en": "responsibilities of management",
+"zh": "管理层的责任"
+},
+"responsibility centre": {
+"en": "responsibility centre",
+"zh": "责任中心"
+},
+"restricted cash": {
+"en": "restricted cash",
+"zh": "受限资金"
+},
+"restructuring": {
+"en": "restructuring",
+"zh": "重组"
+},
+"retail method": {
+"en": "retail method",
+"zh": "零售价格法"
+},
+"retained earnings": {
+"en": "retained earnings",
+"zh": "留存收益"
+},
+"retrospective restatement": {
+"en": "retrospective restatement",
+"zh": "追溯重述"
+},
+"return on assets (roa)": {
+"en": "return on assets (ROA)",
+"zh": "总资产收益率"
+},
+"return on equity (roe)": {
+"en": "return on equity (ROE)",
+"zh": "净资产收益率"
+},
+"return on investment (roi)": {
+"en": "return on investment (ROI)",
+"zh": "投资报酬率"
+},
+"revaluation model": {
+"en": "revaluation model",
+"zh": "重估模式"
+},
+"revaluation surplus": {
+"en": "revaluation surplus",
+"zh": "重估盈余"
+},
+"revenue": {
+"en": "revenue",
+"zh": "收入"
+},
+"revenue expenditure": {
+"en": "revenue expenditure",
+"zh": "收益性支出"
+},
+"right of return": {
+"en": "right of return",
+"zh": "销售退回权"
+},
+"rights and obligations": {
+"en": "rights and obligations",
+"zh": "权利与义务"
+},
+"risk assessment procedures": {
+"en": "risk assessment procedures",
+"zh": "风险评估程序"
+},
+"risk of material misstatement": {
+"en": "risk of material misstatement",
+"zh": "重大错报风险"
+},
+"risk-based audit": {
+"en": "risk-based audit",
+"zh": "风险导向审计"
+},
+"rules-based standards": {
+"en": "rules-based standards",
+"zh": "规则导向准则"
+},
+"safeguards": {
+"en": "safeguards",
+"zh": "防范措施"
+},
+"salaries and wages payable": {
+"en": "salaries and wages payable",
+"zh": "应付职工薪酬"
+},
+"sales allowances": {
+"en": "sales allowances",
+"zh": "销售折让"
+},
+"sales budget": {
+"en": "sales budget",
+"zh": "销售预算"
+},
+"sales discount": {
+"en": "sales discount",
+"zh": "销售折扣"
+},
+"salvage value": {
+"en": "salvage value",
+"zh": "残值"
+},
+"sampling risk": {
+"en": "sampling risk",
+"zh": "抽样风险"
+},
+"sarg": {
+"en": "SARG",
+"zh": "欧盟准则建议审议组"
+},
+"scope paragraph": {
+"en": "scope paragraph",
+"zh": "范围段"
+},
+"securities and exchange commission (sec)": {
+"en": "Securities and Exchange Commission (SEC)",
+"zh": "美国证券交易委员会"
+},
+"segregation of duties": {
+"en": "segregation of duties",
+"zh": "职责分离"
+},
+"self-interest threat": {
+"en": "self-interest threat",
+"zh": "自身利益威胁"
+},
+"self-review threat": {
+"en": "self-review threat",
+"zh": "自我评价威胁"
+},
+"separation of duties": {
+"en": "separation of duties",
+"zh": "职责分离"
+},
+"sequential numbering": {
+"en": "sequential numbering",
+"zh": "顺序编号"
+},
+"sequential processing": {
+"en": "sequential processing",
+"zh": "顺序分步生产"
+},
+"setup cost": {
+"en": "setup cost",
+"zh": "设备调试成本"
+},
+"share capital": {
+"en": "share capital",
+"zh": "股本"
+},
+"share issue costs": {
+"en": "share issue costs",
+"zh": "股票发行费用"
+},
+"share premium": {
+"en": "share premium",
+"zh": "股本溢价（资本公积）"
+},
+"share split": {
+"en": "share split",
+"zh": "股票分割"
+},
+"shareholder": {
+"en": "shareholder",
+"zh": "股东"
+},
+"shareholders / stockholders": {
+"en": "shareholders / stockholders",
+"zh": "股东"
+},
+"shares outstanding": {
+"en": "shares outstanding",
+"zh": "流通在外股份"
+},
+"shipping cost": {
+"en": "shipping cost",
+"zh": "运费"
+},
+"signature of the engagement partner": {
+"en": "signature of the engagement partner",
+"zh": "项目合伙人签字"
+},
+"significant risk": {
+"en": "significant risk",
+"zh": "特别风险"
+},
+"single-step form": {
+"en": "single-step form",
+"zh": "单步式（利润表格式）"
+},
+"social security and unemployment insurance tax": {
+"en": "social security and unemployment insurance tax",
+"zh": "社会保险及失业保险税费"
+},
+"sole proprietorship": {
+"en": "sole proprietorship",
+"zh": "独资（企业）"
+},
+"specific identification": {
+"en": "specific identification",
+"zh": "个别计价法"
+},
+"spending variance": {
+"en": "spending variance",
+"zh": "支出差异"
+},
+"spot exchange rate": {
+"en": "spot exchange rate",
+"zh": "即期汇率"
+},
+"standard cost": {
+"en": "standard cost",
+"zh": "标准成本"
+},
+"standardization": {
+"en": "standardization",
+"zh": "标准化（统一）"
+},
+"statement of cash flows": {
+"en": "statement of cash flows",
+"zh": "现金流量表"
+},
+"statement of changes in equity": {
+"en": "statement of changes in equity",
+"zh": "权益变动表"
+},
+"statement of comprehensive income": {
+"en": "statement of comprehensive income",
+"zh": "综合收益表（利润表）"
+},
+"statement of financial position": {
+"en": "statement of financial position",
+"zh": "财务状况表（资产负债表）"
+},
+"statement of principles": {
+"en": "Statement of Principles",
+"zh": "（英国）原则公告"
+},
+"statutory surplus reserve": {
+"en": "statutory surplus reserve",
+"zh": "法定盈余公积"
+},
+"step-down method": {
+"en": "step-down method",
+"zh": "顺序分配法（阶梯法）"
+},
+"stewardship": {
+"en": "stewardship",
+"zh": "受托责任"
+},
+"stock dividend": {
+"en": "stock dividend",
+"zh": "股票股利"
+},
+"stock option": {
+"en": "stock option",
+"zh": "股票期权"
+},
+"stocktake / physical count": {
+"en": "stocktake / physical count",
+"zh": "实地盘点"
+},
+"straight-line method": {
+"en": "straight-line method",
+"zh": "直线法"
+},
+"sub-optimisation": {
+"en": "sub-optimisation",
+"zh": "次优化"
+},
+"subsequent events": {
+"en": "subsequent events",
+"zh": "资产负债表日后事项"
+},
+"substance over form": {
+"en": "substance over form",
+"zh": "实质重于形式"
+},
+"substantive procedures": {
+"en": "substantive procedures",
+"zh": "实质性程序"
+},
+"sufficiency of audit evidence": {
+"en": "sufficiency of audit evidence",
+"zh": "审计证据的充分性"
+},
+"sunk cost": {
+"en": "sunk cost",
+"zh": "沉没成本"
+},
+"supplies": {
+"en": "supplies",
+"zh": "物料用品"
+},
+"systematic and rational allocation": {
+"en": "systematic and rational allocation",
+"zh": "系统合理分摊"
+},
+"t-account": {
+"en": "T-account",
+"zh": "丁字账"
+},
+"target profit": {
+"en": "target profit",
+"zh": "目标利润"
+},
+"taxes payable": {
+"en": "taxes payable",
+"zh": "应交税费"
+},
+"temporal method": {
+"en": "temporal method",
+"zh": "时态法"
+},
+"temporary accounts": {
+"en": "temporary accounts",
+"zh": "临时性账户"
+},
+"test of controls": {
+"en": "test of controls",
+"zh": "控制测试"
+},
+"tests of controls": {
+"en": "tests of controls",
+"zh": "控制测试（符合性测试）"
+},
+"the conceptual framework for financial reporting": {
+"en": "the conceptual framework for financial reporting",
+"zh": "财务报告概念框架"
+},
+"time-series comparison": {
+"en": "time-series comparison",
+"zh": "时间序列比较"
+},
+"timeliness": {
+"en": "timeliness",
+"zh": "及时性"
+},
+"total asset turnover": {
+"en": "total asset turnover",
+"zh": "总资产周转率"
+},
+"total comprehensive income": {
+"en": "total comprehensive income",
+"zh": "综合收益总额"
+},
+"total control": {
+"en": "total control",
+"zh": "总数控制（完整性核对）"
+},
+"trade discount": {
+"en": "trade discount",
+"zh": "商业折扣"
+},
+"transaction cost": {
+"en": "transaction cost",
+"zh": "交易成本，交易费用"
+},
+"transaction price": {
+"en": "transaction price",
+"zh": "交易价格"
+},
+"transfer of control": {
+"en": "transfer of control",
+"zh": "控制权转移"
+},
+"transferred-in cost": {
+"en": "transferred-in cost",
+"zh": "转入成本"
+},
+"translation reserve": {
+"en": "translation reserve",
+"zh": "外币折算储备"
+},
+"transparency": {
+"en": "transparency",
+"zh": "透明度"
+},
+"treasury shares": {
+"en": "treasury shares",
+"zh": "库藏股"
+},
+"treasury stock": {
+"en": "treasury stock",
+"zh": "库藏股（美式表述）"
+},
+"trend analysis": {
+"en": "trend analysis",
+"zh": "趋势分析"
+},
+"trial balance": {
+"en": "trial balance",
+"zh": "试算平衡表"
+},
+"true and fair view": {
+"en": "true and fair view",
+"zh": "真实公允观点"
+},
+"unable to obtain sufficient appropriate audit evidence": {
+"en": "unable to obtain sufficient appropriate audit evidence",
+"zh": "无法取得充分适当的审计证据"
+},
+"under-applied overhead": {
+"en": "under-applied overhead",
+"zh": "少分配制造费用"
+},
+"understandability": {
+"en": "understandability",
+"zh": "可理解性"
+},
+"unearned revenue": {
+"en": "unearned revenue",
+"zh": "预收收入（递延收入）"
+},
+"unit-level activity": {
+"en": "unit-level activity",
+"zh": "单位级作业"
+},
+"united nations isar": {
+"en": "United Nations ISAR",
+"zh": "联合国国际会计与报告准则政府间专家工作组"
+},
+"units of production method": {
+"en": "units of production method",
+"zh": "工作量法"
+},
+"unmodified (unqualified) opinion": {
+"en": "unmodified (unqualified) opinion",
+"zh": "无保留意见"
+},
+"unrealised profit": {
+"en": "unrealised profit",
+"zh": "未实现利润"
+},
+"us gaap": {
+"en": "US GAAP",
+"zh": "美国公认会计原则"
+},
+"usage (quantity) variance": {
+"en": "usage (quantity) variance",
+"zh": "用量差异"
+},
+"useful life": {
+"en": "useful life",
+"zh": "使用寿命"
+},
+"valuation": {
+"en": "valuation",
+"zh": "计价（认定）"
+},
+"valuation adjustments": {
+"en": "valuation adjustments",
+"zh": "计价调整"
+},
+"valuation and allocation": {
+"en": "valuation and allocation",
+"zh": "计价与分摊"
+},
+"value in use": {
+"en": "value in use",
+"zh": "使用价值（在用价值）"
+},
+"value-added activity": {
+"en": "value-added activity",
+"zh": "增值作业"
+},
+"value-added tax (vat)": {
+"en": "value-added tax (VAT)",
+"zh": "增值税"
+},
+"variable cost": {
+"en": "variable cost",
+"zh": "变动成本"
+},
+"variable overhead": {
+"en": "variable overhead",
+"zh": "变动制造费用"
+},
+"verifiability": {
+"en": "verifiability",
+"zh": "可验证性"
+},
+"vertical analysis": {
+"en": "vertical analysis",
+"zh": "垂直分析"
+},
+"volume rebate": {
+"en": "volume rebate",
+"zh": "数量折扣（返利）"
+},
+"volume variance": {
+"en": "volume variance",
+"zh": "产量差异"
+},
+"voting rights": {
+"en": "voting rights",
+"zh": "表决权"
+},
+"wages payable": {
+"en": "wages payable",
+"zh": "应付工资"
+},
+"warranty": {
+"en": "warranty",
+"zh": "产品质量保证"
+},
+"weighted average cost": {
+"en": "weighted average cost",
+"zh": "加权平均成本"
+},
+"weighted average method": {
+"en": "weighted average method",
+"zh": "加权平均法"
+},
+"weighted average number of shares": {
+"en": "weighted average number of shares",
+"zh": "加权平均股数"
+},
+"window dressing": {
+"en": "window dressing",
+"zh": "粉饰报表"
+},
+"working capital": {
+"en": "working capital",
+"zh": "营运资本"
+},
+"working papers": {
+"en": "working papers",
+"zh": "审计工作底稿"
+},
+"worksheet": {
+"en": "worksheet",
+"zh": "工作底稿"
+},
+"world bank": {
+"en": "World Bank",
+"zh": "世界银行"
+},
+"write-down": {
+"en": "write-down",
+"zh": "（存货）跌价减值"
+},
+"write-off": {
+"en": "write-off",
+"zh": "核销"
+},
+"written representation": {
+"en": "written representation",
+"zh": "书面声明"
+},
+"zero-based budgeting (zbb)": {
+"en": "zero-based budgeting (ZBB)",
+"zh": "零基预算"
+},
+"total assets": {
+"en": "total assets",
+"zh": "资产总计"
+},
+"total liabilities": {
+"en": "total liabilities",
+"zh": "负债合计"
+},
+"total equity": {
+"en": "total equity",
+"zh": "所有者权益合计"
+},
+"total liabilities and equity": {
+"en": "total liabilities and equity",
+"zh": "负债和所有者权益总计"
+},
+"short-term investments": {
+"en": "short-term investments",
+"zh": "短期投资"
+},
+"trade receivables": {
+"en": "trade receivables",
+"zh": "应收账款"
+},
+"other receivables": {
+"en": "other receivables",
+"zh": "其他应收款"
+},
+"inventories": {
+"en": "inventories",
+"zh": "存货"
+},
+"prepayments": {
+"en": "prepayments",
+"zh": "预付款项"
+},
+"contract assets": {
+"en": "contract assets",
+"zh": "合同资产"
+},
+"current tax assets": {
+"en": "current tax assets",
+"zh": "当期所得税资产"
+},
+"deferred tax assets": {
+"en": "deferred tax assets",
+"zh": "递延所得税资产"
+},
+"property plant and equipment": {
+"en": "property plant and equipment",
+"zh": "固定资产"
+},
+"right-of-use assets": {
+"en": "right-of-use assets",
+"zh": "使用权资产"
+},
+"long-term equity investments": {
+"en": "long-term equity investments",
+"zh": "长期股权投资"
+},
+"finance lease receivables": {
+"en": "finance lease receivables",
+"zh": "应收融资租赁款"
+},
+"construction in progress": {
+"en": "construction in progress",
+"zh": "在建工程"
+},
+"biological assets": {
+"en": "biological assets",
+"zh": "生产性生物资产"
+},
+"trade payables": {
+"en": "trade payables",
+"zh": "应付账款"
+},
+"contract liabilities": {
+"en": "contract liabilities",
+"zh": "合同负债"
+},
+"employee benefits payable": {
+"en": "employee benefits payable",
+"zh": "应付职工薪酬"
+},
+"short-term borrowings": {
+"en": "short-term borrowings",
+"zh": "短期借款"
+},
+"current portion of non-current liabilities": {
+"en": "current portion of non-current liabilities",
+"zh": "一年内到期的非流动负债"
+},
+"provisions": {
+"en": "provisions",
+"zh": "预计负债"
+},
+"long-term borrowings": {
+"en": "long-term borrowings",
+"zh": "长期借款"
+},
+"lease liabilities": {
+"en": "lease liabilities",
+"zh": "租赁负债"
+},
+"deferred tax liabilities": {
+"en": "deferred tax liabilities",
+"zh": "递延所得税负债"
+},
+"paid-in capital": {
+"en": "paid-in capital",
+"zh": "实收资本"
+},
+"capital reserve": {
+"en": "capital reserve",
+"zh": "资本公积"
+},
+"other comprehensive income": {
+"en": "other comprehensive income",
+"zh": "其他综合收益"
+},
+"surplus reserve": {
+"en": "surplus reserve",
+"zh": "盈余公积"
+},
+"equity attributable to owners of the parent": {
+"en": "equity attributable to owners of the parent",
+"zh": "归属于母公司所有者权益"
+},
+"operating revenue": {
+"en": "operating revenue",
+"zh": "营业收入"
+},
+"cost of revenue": {
+"en": "cost of revenue",
+"zh": "营业成本"
+},
+"selling and distribution expenses": {
+"en": "selling and distribution expenses",
+"zh": "销售费用"
+},
+"selling general and administrative expenses": {
+"en": "selling general and administrative expenses",
+"zh": "销售及管理费用"
+},
+"general and administrative expenses": {
+"en": "general and administrative expenses",
+"zh": "管理费用"
+},
+"research and development expenses": {
+"en": "research and development expenses",
+"zh": "研发费用"
+},
+"other income": {
+"en": "other income",
+"zh": "其他收益"
+},
+"other gains and losses": {
+"en": "other gains and losses",
+"zh": "营业外收支净额"
+},
+"operating income": {
+"en": "operating income",
+"zh": "营业利润"
+},
+"interest expense": {
+"en": "interest expense",
+"zh": "利息费用"
+},
+"interest income": {
+"en": "interest income",
+"zh": "利息收入"
+},
+"share of profit of associates": {
+"en": "share of profit of associates",
+"zh": "对联营企业的投资收益"
+},
+"income before income taxes": {
+"en": "income before income taxes",
+"zh": "利润总额"
+},
+"provision for income taxes": {
+"en": "provision for income taxes",
+"zh": "所得税费用"
+},
+"net profit": {
+"en": "net profit",
+"zh": "净利润"
+},
+"net income": {
+"en": "net income",
+"zh": "净利润"
+},
+"profit attributable to owners of the parent": {
+"en": "profit attributable to owners of the parent",
+"zh": "归属于母公司股东的净利润"
+},
+"basic earnings per share": {
+"en": "basic earnings per share",
+"zh": "基本每股收益"
+},
+"diluted earnings per share": {
+"en": "diluted earnings per share",
+"zh": "稀释每股收益"
+},
+"continuing operations": {
+"en": "continuing operations",
+"zh": "持续经营业务"
+},
+"discontinued operations": {
+"en": "discontinued operations",
+"zh": "终止经营业务"
+},
+"impairment loss": {
+"en": "impairment loss",
+"zh": "减值损失"
+},
+"reversal of impairment": {
+"en": "reversal of impairment",
+"zh": "减值转回"
+},
+"foreign exchange gains and losses": {
+"en": "foreign exchange gains and losses",
+"zh": "汇兑损益"
+},
+"share-based payment expense": {
+"en": "share-based payment expense",
+"zh": "股份支付费用"
+},
+"statement of profit or loss": {
+"en": "statement of profit or loss",
+"zh": "利润表"
+},
+"statement of operations": {
+"en": "statement of operations",
+"zh": "经营成果表（利润表）"
+},
+"net cash from operating activities": {
+"en": "net cash from operating activities",
+"zh": "经营活动产生的现金流量净额"
+},
+"net cash used in investing activities": {
+"en": "net cash used in investing activities",
+"zh": "投资活动使用的现金流量净额"
+},
+"net cash from financing activities": {
+"en": "net cash from financing activities",
+"zh": "筹资活动产生的现金流量净额"
+},
+"depreciation and amortisation": {
+"en": "depreciation and amortisation",
+"zh": "折旧及摊销"
+},
+"impairment charges": {
+"en": "impairment charges",
+"zh": "减值损失"
+},
+"gain on disposal of property plant and equipment": {
+"en": "gain on disposal of property plant and equipment",
+"zh": "处置固定资产收益"
+},
+"changes in working capital": {
+"en": "changes in working capital",
+"zh": "营运资本变动"
+},
+"increase in inventories": {
+"en": "increase in inventories",
+"zh": "存货的增加"
+},
+"decrease in inventories": {
+"en": "decrease in inventories",
+"zh": "存货的减少"
+},
+"increase in trade receivables": {
+"en": "increase in trade receivables",
+"zh": "应收账款的增加"
+},
+"increase in trade payables": {
+"en": "increase in trade payables",
+"zh": "应付账款的增加"
+},
+"purchases of property plant and equipment": {
+"en": "purchases of property plant and equipment",
+"zh": "购建固定资产支付的现金"
+},
+"proceeds from disposal of assets": {
+"en": "proceeds from disposal of assets",
+"zh": "处置资产收到的现金"
+},
+"proceeds from borrowings": {
+"en": "proceeds from borrowings",
+"zh": "取得借款收到的现金"
+},
+"repayment of borrowings": {
+"en": "repayment of borrowings",
+"zh": "偿还债务支付的现金"
+},
+"dividends paid": {
+"en": "dividends paid",
+"zh": "分配股利支付的现金"
+},
+"net increase in cash and cash equivalents": {
+"en": "net increase in cash and cash equivalents",
+"zh": "现金及现金等价物净增加额"
+},
+"effect of exchange rate changes on cash": {
+"en": "effect of exchange rate changes on cash",
+"zh": "汇率变动对现金的影响"
+},
+"cash flows from operating activities": {
+"en": "cash flows from operating activities",
+"zh": "经营活动产生的现金流量"
+},
+"balance at beginning of period": {
+"en": "balance at beginning of period",
+"zh": "期初余额"
+},
+"balance at end of period": {
+"en": "balance at end of period",
+"zh": "期末余额"
+},
+"transactions with owners": {
+"en": "transactions with owners",
+"zh": "与所有者的交易"
+},
+"appropriation to surplus reserve": {
+"en": "appropriation to surplus reserve",
+"zh": "提取盈余公积"
+},
+"dividends declared": {
+"en": "dividends declared",
+"zh": "宣告发放股利"
+},
+"issue of shares": {
+"en": "issue of shares",
+"zh": "发行股份"
+},
+"basis of preparation": {
+"en": "basis of preparation",
+"zh": "编制基础"
+},
+"significant accounting policies": {
+"en": "significant accounting policies",
+"zh": "重要会计政策"
+},
+"critical accounting estimates": {
+"en": "critical accounting estimates",
+"zh": "关键会计估计"
+},
+"segment reporting": {
+"en": "segment reporting",
+"zh": "分部报告"
+},
+"related party transactions": {
+"en": "related party transactions",
+"zh": "关联方交易"
+},
+"contingent liabilities": {
+"en": "contingent liabilities",
+"zh": "或有负债"
+},
+"commitments": {
+"en": "commitments",
+"zh": "承诺事项"
+},
+"fair value measurement": {
+"en": "fair value measurement",
+"zh": "公允价值计量"
+},
+"operating lease": {
+"en": "operating lease",
+"zh": "经营租赁"
+},
+"finance lease": {
+"en": "finance lease",
+"zh": "融资租赁"
+},
+"auditor's report": {
+"en": "auditor's report",
+"zh": "审计报告"
+},
+"independent auditor's report": {
+"en": "independent auditor's report",
+"zh": "独立审计报告"
+},
+"opinion": {
+"en": "opinion",
+"zh": "审计意见"
+},
+"unqualified opinion": {
+"en": "unqualified opinion",
+"zh": "无保留意见"
+},
+"key audit matters": {
+"en": "key audit matters",
+"zh": "关键审计事项"
+},
+"internal control over financial reporting": {
+"en": "internal control over financial reporting",
+"zh": "财务报告内部控制"
+},
+"fairly present": {
+"en": "fairly present",
+"zh": "公允反映"
+},
+"net margin": {
+"en": "net margin",
+"zh": "净利率"
+},
+"return on equity": {
+"en": "return on equity",
+"zh": "净资产收益率"
+},
+"return on assets": {
+"en": "return on assets",
+"zh": "总资产收益率"
+},
+"quick ratio": {
+"en": "quick ratio",
+"zh": "速动比率"
+},
+"receivables turnover": {
+"en": "receivables turnover",
+"zh": "应收账款周转率"
+},
+"asset turnover": {
+"en": "asset turnover",
+"zh": "总资产周转率"
+},
+"interest coverage ratio": {
+"en": "interest coverage ratio",
+"zh": "利息保障倍数"
+},
+"earnings before interest and tax": {
+"en": "earnings before interest and tax",
+"zh": "息税前利润"
+},
+"earnings before interest tax depreciation and amortisation": {
+"en": "earnings before interest tax depreciation and amortisation",
+"zh": "息税折旧摊销前利润"
+},
+"year ended december 31": {
+"en": "year ended december 31",
+"zh": "截至12月31日止年度"
+},
+"for the year ended": {
+"en": "for the year ended",
+"zh": "本年度"
+},
+"as of": {
+"en": "as of",
+"zh": "截至"
+},
+"in thousands": {
+"en": "in thousands",
+"zh": "单位：千元"
+},
+"in millions": {
+"en": "in millions",
+"zh": "单位：百万元"
+},
+"except per share data": {
+"en": "except per share data",
+"zh": "每股数据除外"
+},
+"increase / decrease": {
+"en": "increase / decrease",
+"zh": "增加 / 减少"
+},
+"continuing": {
+"en": "continuing",
+"zh": "持续"
+},
+"restated": {
+"en": "restated",
+"zh": "重述"
+},
+"unaudited": {
+"en": "unaudited",
+"zh": "未经审计"
+},
+"audited": {
+"en": "audited",
+"zh": "已审计"
+}
+}

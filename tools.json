@@ -1,0 +1,200 @@
+{
+  "version": "1.0",
+  "categories": [
+    "文档检索",
+    "表格分析",
+    "OCR识别",
+    "PDF处理",
+    "语音比对",
+    "搜索工具",
+    "翻译"
+  ],
+  "tools": [
+    {
+      "id": "01",
+      "name": "批量Word文档关键字检索",
+      "cat": "文档检索",
+      "desc": "批量检索Word文档中的关键字，输出命中文件与段落清单到Excel。支持正则表达式。",
+      "exe": "组件/审计署工具/01批量Word文档关键字检索/02安装包/Windows/批量Word文档关键字检索_TK.exe",
+      "help": "组件/说明/01批量Word文档关键字检索.txt",
+      "keywords": "word docx 关键词 检索 搜索"
+    },
+    {
+      "id": "01B",
+      "name": "批量Word检索(支持doc老格式)",
+      "cat": "文档检索",
+      "desc": "检索范围含老式 .doc 文件（自动转 docx，需本机装有 WPS 或 Office）；修复了原版的打包缺陷。",
+      "exe": "组件/审计署工具/01批量Word文档关键字检索/02安装包/Windows/批量Word文档关键字检索win支持doc_修复版.exe",
+      "help": "组件/说明/01批量Word文档关键字检索.txt",
+      "keywords": "word doc 关键词 检索"
+    },
+    {
+      "id": "02",
+      "name": "数据分析关联查询工具",
+      "cat": "表格分析",
+      "desc": "Excel/CSV 表 A 与表 B 做左/右/内/外关联查询并导出（Windows 版按官方源码重建）。",
+      "exe": "组件/审计署工具/02数据分析关联查询工具/02安装包/Windows/数据分析关联查询工具.exe",
+      "help": "组件/说明/02数据分析关联查询工具.txt",
+      "keywords": "关联查询 join 数据表 内关联 外关联"
+    },
+    {
+      "id": "03",
+      "name": "表格数据关联工具",
+      "cat": "表格分析",
+      "desc": "把Excel表格Sheet转成关系表，连线可视化建立表间关联，生成合并数据。",
+      "exe": "组件/审计署工具/03表格数据关联工具/02安装包/Windows/表格数据关联工具.exe",
+      "help": "组件/说明/03表格数据关联工具.txt",
+      "keywords": "表格 关联 可视化 连线 sqlite"
+    },
+    {
+      "id": "04",
+      "name": "图片文字识别工具",
+      "cat": "OCR识别",
+      "desc": "图片/图片式PDF文字识别转Word（本地PaddleOCR，无需联网），带操作留痕。首次启动稍慢。",
+      "exe": "组件/审计署工具/04图片文字识别工具/02安装包/Windows/图片文字识别工具/图片文字识别工具.exe",
+      "help": "组件/说明/04图片文字识别工具.txt",
+      "keywords": "ocr 图片 识别 paddle"
+    },
+    {
+      "id": "05",
+      "name": "PDF文件内容提取工具",
+      "cat": "PDF处理",
+      "desc": "文本式PDF正文提取为Word、表格提取为CSV。",
+      "exe": "组件/审计署工具/05PDF文件内容提取工具/02安装包/Windows/PDF文件内容提取工具/PDF文件内容提取工具.exe",
+      "help": "组件/说明/05PDF文件内容提取工具.txt",
+      "keywords": "pdf 提取 word csv pdf2docx"
+    },
+    {
+      "id": "06A",
+      "name": "PDF数据提取工具",
+      "cat": "PDF处理",
+      "desc": "PDF文本/表格数据提取为Word或Excel，银行账户协查类PDF转表格首选。",
+      "exe": "组件/审计署工具/06PDF内容提取工具/02安装包/Windows/PDF数据提取工具.exe",
+      "help": "组件/说明/06PDF内容提取工具.txt",
+      "keywords": "pdf 数据 表格 银行"
+    },
+    {
+      "id": "06B",
+      "name": "PDF文件转换工具",
+      "cat": "PDF处理",
+      "desc": "PDF全文转换（正文转Word等格式）。",
+      "exe": "组件/审计署工具/06PDF内容提取工具/02安装包/Windows/PDF文件转换工具.exe",
+      "help": "组件/说明/06PDF内容提取工具.txt",
+      "keywords": "pdf 转换 docx"
+    },
+    {
+      "id": "07",
+      "name": "文本文档比对工具",
+      "cat": "文档检索",
+      "desc": "两段文本左右对照比对，增删改高亮显示；支持粘贴或导入txt/doc/docx/wps。",
+      "exe": "组件/审计署工具/07文本文档比对工具/02安装包/Windows/文本文档比对工具.exe",
+      "help": "组件/说明/07文本文档比对工具.txt",
+      "keywords": "比对 差异 diff 文档"
+    },
+    {
+      "id": "08",
+      "name": "发票识别工具",
+      "cat": "OCR识别",
+      "desc": "发票图片OCR识别成表格并导出Excel（本地识别，无需联网）。",
+      "exe": "组件/审计署工具/08发票识别工具/02安装包/Windows/发票识别工具/发票识别工具.exe",
+      "help": "组件/说明/08发票识别工具.txt",
+      "keywords": "发票 识别 增值税"
+    },
+    {
+      "id": "09",
+      "name": "发票信息批量提取工具",
+      "cat": "OCR识别",
+      "desc": "批量PDF电子发票（增值税专票）正则提取结构化数据到表格。QT版界面更丰富，TK版更轻量。",
+      "exe": "组件/审计署工具/09发票信息批量提取工具/02安装包/Windows/PDF发票信息批量提取_QT.exe",
+      "help": "组件/说明/09发票信息批量提取工具.txt",
+      "variants": [
+        {
+          "label": "轻量版(TK)",
+          "exe": "组件/审计署工具/09发票信息批量提取工具/02安装包/Windows/PDF发票信息批量提取_TK.exe"
+        }
+      ],
+      "keywords": "发票 批量 提取 电子发票"
+    },
+    {
+      "id": "10",
+      "name": "身份证手机号识别工具",
+      "cat": "OCR识别",
+      "desc": "身份证照片OCR提取结构化信息；身份证号/手机号归属地查询，支持Excel批量。",
+      "exe": "组件/审计署工具/10身份证手机号识别工具/02安装包/Windows/身份证手机号识别工具/身份证手机号识别工具.exe",
+      "help": "组件/说明/10身份证手机号识别工具.txt",
+      "keywords": "身份证 手机号 归属地"
+    },
+    {
+      "id": "11",
+      "name": "语音识别工具",
+      "cat": "语音比对",
+      "desc": "录音转文字（本地sherpa-ncnn中英双语模型，完全离线），导出TXT/Word，支持实时录音。",
+      "exe": "组件/审计署工具/11语音识别工具/02安装包/Windows/语音识别工具/语音识别工具.exe",
+      "help": "组件/说明/11语音识别工具.txt",
+      "keywords": "语音 录音 转文字 whisper"
+    },
+    {
+      "id": "12",
+      "name": "Excel单表拆分",
+      "cat": "表格分析",
+      "desc": "单个Excel按指定字段拆分成多个Excel文件。",
+      "exe": "组件/审计署工具/12Excel单表拆分/02安装包/Windows/Excel单表拆分_QT.exe",
+      "help": "组件/说明/12Excel单表拆分.txt",
+      "variants": [
+        {
+          "label": "轻量版(TK)",
+          "exe": "组件/审计署工具/12Excel单表拆分/02安装包/Windows/Excel单表拆分_TK.exe"
+        }
+      ],
+      "keywords": "excel 拆分"
+    },
+    {
+      "id": "13",
+      "name": "Excel多表合一",
+      "cat": "表格分析",
+      "desc": "多个Excel文件合并成一个。",
+      "exe": "组件/审计署工具/13Excel多表合一/02安装包/Windows/Excel多表合一_QT.exe",
+      "help": "组件/说明/13Excel多表合一.txt",
+      "variants": [
+        {
+          "label": "轻量版(TK)",
+          "exe": "组件/审计署工具/13Excel多表合一/02安装包/Windows/Excel多表合一_TK.exe"
+        }
+      ],
+      "keywords": "excel 合并 多表"
+    },
+    {
+      "id": "14",
+      "name": "Excel多页合表",
+      "cat": "表格分析",
+      "desc": "单个Excel多个Sheet合并成一张表。",
+      "exe": "组件/审计署工具/14Excel多页合表/02安装包/Windows/Excel多页合表_QT.exe",
+      "help": "组件/说明/14Excel多页合表.txt",
+      "variants": [
+        {
+          "label": "轻量版(TK)",
+          "exe": "组件/审计署工具/14Excel多页合表/02安装包/Windows/Excel多页合表_TK.exe"
+        }
+      ],
+      "keywords": "excel sheet 合并"
+    },
+    {
+      "id": "S",
+      "name": "关键词搜索工具",
+      "cat": "搜索工具",
+      "desc": "全盘文档关键词搜索（Word/Excel/PDF含扫描件OCR），智能冗余过滤、段落级摘要、命中文件高亮复制。",
+      "exe": "组件/搜索工具/关键词搜索工具.exe",
+      "help": "组件/说明/搜索工具_关键词搜索.txt",
+      "keywords": "搜索 关键词 全文检索 ocr 高亮"
+    },
+    {
+      "id": "15",
+      "name": "财务报表中英翻译器",
+      "cat": "翻译",
+      "desc": "英文财报/年报/审计报告译成中英对照 Word。内置 750 条术语库，定向注入 + 译后核对，数字逐个比对，报表型输入逐行对齐。",
+      "exe": "组件/自建工具/15财务报表中英翻译器/财务报表中英翻译器.exe",
+      "help": "组件/说明/15财务报表中英翻译器.txt",
+      "keywords": "翻译 中英 财报 财务报表 年报 英文 en zh translate"
+    }
+  ]
+}

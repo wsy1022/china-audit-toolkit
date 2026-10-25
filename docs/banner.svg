@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="320" viewBox="0 0 1000 320" role="img" aria-label="中国审计机关常用工具包 China Audit Toolkit">
+  <title>中国审计机关常用工具包 China Audit Toolkit</title>
+
+  <rect width="1000" height="320" fill="#F7F3EB"/>
+  <g stroke="#EDE6D6" stroke-width="1">
+    <line x1="0" y1="40"  x2="1000" y2="40"/>
+    <line x1="0" y1="80"  x2="1000" y2="80"/>
+    <line x1="0" y1="120" x2="1000" y2="120"/>
+    <line x1="0" y1="160" x2="1000" y2="160"/>
+    <line x1="0" y1="200" x2="1000" y2="200"/>
+    <line x1="0" y1="240" x2="1000" y2="240"/>
+    <line x1="0" y1="280" x2="1000" y2="280"/>
+  </g>
+
+  <line x1="48"  y1="30" x2="48"  y2="292" stroke="#A62B1F" stroke-width="1.4" opacity="0.55"/>
+  <line x1="612" y1="30" x2="612" y2="292" stroke="#A62B1F" stroke-width="1.4" opacity="0.55"/>
+
+  <text x="70" y="120" font-family="'Noto Serif CJK SC', 'Songti SC', 'SimSun', Georgia, serif"
+        font-size="40" fill="#17150F" letter-spacing="2">中国审计机关常用工具包</text>
+  <text x="72" y="162" font-family="Georgia, 'Times New Roman', serif"
+        font-size="17" fill="#5C5647" letter-spacing="6">CHINA AUDIT TOOLKIT</text>
+  <text x="73" y="214" font-family="'Microsoft YaHei', 'PingFang SC', 'Noto Sans CJK SC', sans-serif"
+        font-size="13.5" fill="#5C5647">启动台 + 技能文档：18 个工具，7 个分类，全部离线运行</text>
+  <text x="73" y="240" font-family="'Microsoft YaHei', 'PingFang SC', 'Noto Sans CJK SC', sans-serif"
+        font-size="13.5" fill="#5C5647">工具著作权归原发布单位，本包只做索引、启动与说明</text>
+
+  <!-- 分类清单：会平 -->
+  <line x1="628" y1="58" x2="952" y2="58" stroke="#17150F" stroke-width="1"/>
+  <g font-family="'Microsoft YaHei', 'PingFang SC', 'Noto Sans CJK SC', sans-serif" font-size="11.5" fill="#5C5647">
+    <text x="628" y="78" letter-spacing="1">分类 CATEGORY</text>
+    <text x="952" y="78" text-anchor="end" letter-spacing="1">数量 COUNT</text>
+  </g>
+
+  <g font-family="'Microsoft YaHei', 'PingFang SC', 'Noto Sans CJK SC', sans-serif" font-size="14" fill="#17150F">
+    <text x="628" y="106">文档检索　WORD</text>
+    <text x="628" y="132">表格分析　TABLE</text>
+    <text x="628" y="158">OCR 识别</text>
+    <text x="628" y="184">PDF 处理</text>
+    <text x="628" y="210">语音·搜索·翻译</text>
+  </g>
+  <g font-family="Consolas, 'SF Mono', 'DejaVu Sans Mono', monospace" font-size="15" fill="#17150F" text-anchor="end">
+    <text x="952" y="106">3</text>
+    <text x="952" y="132">5</text>
+    <text x="952" y="158">4</text>
+    <text x="952" y="184">3</text>
+    <text x="952" y="210">3</text>
+  </g>
+
+  <line x1="628" y1="224" x2="952" y2="224" stroke="#17150F" stroke-width="1.2"/>
+  <text x="628" y="252" font-family="'Microsoft YaHei', 'PingFang SC', 'Noto Sans CJK SC', sans-serif"
+        font-size="14" font-weight="700" fill="#17150F">合计　TOTAL</text>
+  <text x="952" y="256" text-anchor="end" font-family="Consolas, 'SF Mono', 'DejaVu Sans Mono', monospace"
+        font-size="24" font-weight="700" fill="#A62B1F">18</text>
+  <line x1="628" y1="268" x2="952" y2="268" stroke="#17150F" stroke-width="1.2"/>
+  <line x1="628" y1="273" x2="952" y2="273" stroke="#17150F" stroke-width="1.2"/>
+
+  <text x="70" y="292" font-family="Consolas, 'SF Mono', 'DejaVu Sans Mono', monospace"
+        font-size="11.5" fill="#5C5647" letter-spacing="0.8">MIT ／ 全离线 ／ 单文件启动台 10 MB</text>
+</svg>
